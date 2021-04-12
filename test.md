@@ -11,7 +11,7 @@ http://standards-oui.ieee.org/cid/cid.csv
 http://standards-oui.ieee.org/ethertype/eth.csv
 6. ManufacturerID   XDL
 http://standards-oui.ieee.org/manid/manid.csv
-7. IEEE 802.16 Operator ID  
+8. IEEE 802.16 Operator ID  
 http://standards-oui.ieee.org/bopid/opid.csv
 8. IAB
 http://standards-oui.ieee.org/iab/iab.csv

@@ -2481,7 +2481,6 @@ Ethertype,8901,Nokia Networks/IP Mobility Networks,P.O.BOX 370 Espoo  FI FI-0004
 Ethertype,88b7,IEEE 802.1 Working Group,802.1 CHAIR c/o IEEE Piscataway NJ US 08554 ,"IEEE Std 802 - OUI Extended Ethertype. This Ethertype value is available for public use and for prototype and vendor-specific protocol development, as defined in Amendment 802a to IEEE Std 802."
 Ethertype,820C,"Xyplex, Inc.",330 Codman Hill Road Boxborough MA US 01719 ,Protocol unavailable.
 Ethertype,820F,"Xyplex, Inc.",330 Codman Hill Road Boxborough MA US 01719 ,Protocol unavailable.
-Ethertype,A8C8,IEEE 1904 Access Networks Working Group,445 Hoes Lane  Piscataway NJ US 08854-4141 ,"The 1904.2 standard describes the UMT protocol for management of various CPE devices located behind an Optical/Coaxial Network Units, or a Residential Gateway. The protocol requires the frames to be readily distinguishable from other types of frames."
 Ethertype,8923,PHOENIX CONTACT Electronics GmbH,Dringenauer Strasse 30 Bad Pyrmont Lower Saxony DE D-31812 ,Protocol unavailable
 Ethertype,8934,PHOENIX CONTACT Electronics GmbH,Dringenauer Strasse 30 Bad Pyrmont Lower Saxony DE D-31812 ,Protocol unavailable
 Ethertype,8856,Private,,Protocol unavailable.
@@ -3088,6 +3087,7 @@ Ethertype,87E0,Qualcomm Inc.,6455 Lusk Blvd. San Diego CA US 92121-2779 ,Protoco
 Ethertype,879C,Qualcomm Inc.,6455 Lusk Blvd. San Diego CA US 92121-2779 ,Protocol unavailable.
 Ethertype,87AD,Qualcomm Inc.,6455 Lusk Blvd. San Diego CA US 92121-2779 ,Protocol unavailable.
 Ethertype,87F5,Qualcomm Inc.,6455 Lusk Blvd. San Diego CA US 92121-2779 ,Protocol unavailable.
+Ethertype,A8C8,IEEE 1904 Access Networks Working Group,445 Hoes Lane  Piscataway NJ US 08854-4141 ,"The Virtual Link Control (VLC) protocol for Ethernet-based subscriber access networks. The VLC protocol is specified in IEEE Std. 1904.2. For more information, visit https://www.ieee1904.org/2"
 Ethertype,8741,Siemens  AG,Otto-Han-Ring-6 Munich  DE D-81739 ,Protocol unavailable.
 Ethertype,874D,Hybrid,20863 Stevens Creek Blvd. Cupertino CA US 95014-8750 ,Protocol unavailable.
 Ethertype,873D,Siemens  AG,Otto-Han-Ring-6 Munich  DE D-81739 ,Protocol unavailable.

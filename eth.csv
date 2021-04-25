@@ -2079,7 +2079,6 @@ Company Wedsite www.integralaccess.com"
 Ethertype,88c6,3eti,700 Kings Farm Blvd Rockville MD US 20850 ,This product is intended for 802.11 product to product communications.
 Ethertype,88c2,LEA (Laboratoire Europeen ADSL),9 rue des Charmilles Cesson SEV1 GNE Cedex FR 35577 ,Protocol unavailable.
 Ethertype,88b2,DragonWave Inc.,600-411 Lesset Dr. Kanata Ontario CA K2L 2R8 ,Protocol unavailable.
-Ethertype,88a4,Beckhoff Industrie Elektronik,Eiserstraße 5  Verl DE D-33415 ,Protocol unavailable.
 Ethertype,8880,Exbit Technology,Hoerkaer 18  Herlen DK 2730 ,Protocol unavailable.
 Ethertype,887a,Marconi Communications Inc.,8616 Freeport Parkway Irving TX US 75063 ,Protocol unavailable.
 Ethertype,8868,NBX Corporation,100 Brickstone Square Andover MA US 01810 ,Protocol unavailable.
@@ -2291,6 +2290,7 @@ Ethertype,87F9,Qualcomm Inc.,6455 Lusk Blvd. San Diego CA US 92121-2779 ,Protoco
 Ethertype,87BD,Qualcomm Inc.,6455 Lusk Blvd. San Diego CA US 92121-2779 ,Protocol unavailable.
 Ethertype,87C3,Qualcomm Inc.,6455 Lusk Blvd. San Diego CA US 92121-2779 ,Protocol unavailable.
 Ethertype,87C6,Qualcomm Inc.,6455 Lusk Blvd. San Diego CA US 92121-2779 ,Protocol unavailable.
+Ethertype,88a4,Beckhoff Automation GmbH & Co KG,Huelshorstweg 20 Verl  DE D-33415 ,EtherCAT
 Ethertype,80DD,Private,,Protocol unavailable.
 Ethertype,B6FE,EtherCAT Technology Group,Ostendstr. 196 NUremberg  DE 90482 ,"Routing functionality through branch controllers is added to the EtherCAT technology by the new EtherCAT G enhancement. IP routing is not available and VLAN based routing does not meet the requirements, so we need an own Ethertype for that purpose."
 Ethertype,8747,Hybrid,20863 Stevens Creek Blvd. Cupertino CA US 95014-8750 ,Protocol unavailable.

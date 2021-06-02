@@ -1959,12 +1959,6 @@ Ethertype,81F6,Private,,Protocol unavailable.
 Ethertype,814D,BIIN, Hillsboro OR US  ,Protocol unavailable.
 Ethertype,880F,Hypercom Network Systems, Phoenix AZ US  ,Hypercom Corporation uses the EtherType fields for their proprietary Integrated Enterprise Network(IEN) LAN-to-LAN protocols.
 Ethertype,1600,Valid Systems,   US  ,Protocol unavailable.
-Ethertype,8820,APRESIA Systems Ltd," Tsukuba Network Technical Center, Tsukuba Network Tsuchiura-shi Ibaraki-ken JP 300-0026 ","The EtherType Field 8820 assigned for Hitachi Cable is used for 
-Hitachi Cable's proprietary plotocols such as 
- 
-PHDP(PHysical Discovery Protocol)
-VLTP(VLan Transmission Protocol)
-MMRP(Multi Master Ring Protocol)"
 Ethertype,882F,Intecom Inc.,System Software Group Dallas TX US 75248 ,Protocol unavailable.
 Ethertype,9001,3Com,3 Com Corporation Boxborough MA US 01719 ,Protocol unavailable.
 Ethertype,9003,3Com,3 Com Corporation Boxborough MA US 01719 ,Protocol unavailable.
@@ -2291,6 +2285,12 @@ Ethertype,87BD,Qualcomm Inc.,6455 Lusk Blvd. San Diego CA US 92121-2779 ,Protoco
 Ethertype,87C3,Qualcomm Inc.,6455 Lusk Blvd. San Diego CA US 92121-2779 ,Protocol unavailable.
 Ethertype,87C6,Qualcomm Inc.,6455 Lusk Blvd. San Diego CA US 92121-2779 ,Protocol unavailable.
 Ethertype,88a4,Beckhoff Automation GmbH & Co KG,Huelshorstweg 20 Verl  DE D-33415 ,EtherCAT
+Ethertype,8820,APRESIA Systems Ltd,"Tsukuba Network Technical Center, Kidamari 3550 Tsuchiura-shi Ibaraki-ken JP 300-0026 ","The EtherType Field 8820 assigned for Hitachi Cable is used for 
+Hitachi Cable's proprietary plotocols such as 
+ 
+PHDP(PHysical Discovery Protocol)
+VLTP(VLan Transmission Protocol)
+MMRP(Multi Master Ring Protocol)"
 Ethertype,80DD,Private,,Protocol unavailable.
 Ethertype,B6FE,EtherCAT Technology Group,Ostendstr. 196 NUremberg  DE 90482 ,"Routing functionality through branch controllers is added to the EtherCAT technology by the new EtherCAT G enhancement. IP routing is not available and VLAN based routing does not meet the requirements, so we need an own Ethertype for that purpose."
 Ethertype,8747,Hybrid,20863 Stevens Creek Blvd. Cupertino CA US 95014-8750 ,Protocol unavailable.

@@ -25,7 +25,6 @@ MAN_ID,10156,mg-sensor GmbH,Airport Boulevard B 210 Rheinmuenster  DE 77836
 MAN_ID,15095,Soundtec GmbH,Bunsenstr. 9c Goettingen  DE 37073 
 MAN_ID,555,Druck- und Durchflussmessung,Dorfstrasse 13 Hofbieber  DE 36145 
 MAN_ID,83,Dewetron GmbH,Parking 4 Graz-Grambach  AT 8074 
-MAN_ID,1109,General Motors,3300 General Motors Rd Milford Michigan US 48380 
 MAN_ID,1104,UNIPULSE Corporation,1-3 Koshigaya city Saitama pref. JP 343-0041 
 MAN_ID,1101,yurbuds Sport Earphones,900 Spruce Street Saint Louis MO US 63102 
 MAN_ID,1098,"Baker-Calling, Inc.",836 Brookside Dr. Ann Arbor MI US 48105 
@@ -51,6 +50,7 @@ MAN_ID,28,Entek IRD,   US
 MAN_ID,32,TEAC,   US  
 MAN_ID,17,Bruel & Kjaer,   US  
 MAN_ID,1889,PMT GmbH,Bgm.Kieferstr. 32 Au Hallertau  DE 84072 
+MAN_ID,1109,General Motors,3300 General Motors Rd Milford MI US 48380 
 MAN_ID,15913,"VALCOM CO.,LTD.","7-25 MINOWA 3-CHOME TOYONAKA CITY,OSAKA  JP 560-0035 "
 MAN_ID,12385,TrigasDM GmbH,Erdinger Strasse 2b Neufahrn  DE 85375 
 MAN_ID,5688,Duerr Somac GmbH,Zwickauer Str. 30 Stollberg Saxonia DE 09366 

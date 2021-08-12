@@ -14,7 +14,6 @@ Ethertype,88d8,Metro Ethernet Forum,1300 Bristol St. N. Suite 160 Newport Beach 
 Ethertype,8900,Red Lion,820 S. University Blvd. Mobile AL US 36609 ,Red Lion Controls Inc. proprietary
 Ethertype,88eb,"Aruba, a Hewlett Packard Enterprise Company",3333 Scott Blvd Santa Clara CA US 95054 ,This is an application for a second e-type from Aruba at this time.
 Ethertype,8907,Zhejiang University,"Institute of Advanced Process Control,Zhejiang University Hangzhou Zhejiang CN 310027 ","DRP(Distributed Redundancy Protocol) is a high availability ethernet protocol developed by Zhejiang University. This protocol guarantee short recovery time in case of either link failure or switch failure. And in this protocol, all switches are distributed and equal without master and slave. This protocol is useful for ring/tree/star topology."
-Ethertype,8808,IEEE 802.3,"Bay Networks 4401 Great America Pkwy, Santa Cla CA US 95052-8185 ",Protocol unavailable.
 Ethertype,22EA,IEEE 802.1 Working Group,11a Poplar Grove Sale  US M33 3AX ,Stream Reservation Protocol
 Ethertype,892F,International Electrotechnical Commission,"3, rue de Varembé Geneva GE CH CH-1211 ",High-availability Seamless Redundancy (HSR) protocol
 Ethertype,88cd,sercos international e.V.,Küblerstrasse 1 Süssen Baden-Württemberg DE 73079 ,SERCOS interface 
@@ -740,29 +739,30 @@ Ethertype,86C8,"Software Technology, Inc.",1511 Park Ave Melbourne FL US 32901 ,
 Ethertype,86CB,"Software Technology, Inc.",1511 Park Ave Melbourne FL US 32901 ,Protocol unavailable.
 Ethertype,86CD,"Software Technology, Inc.",1511 Park Ave Melbourne FL US 32901 ,Protocol unavailable.
 Ethertype,86DA,"Software Technology, Inc.",1511 Park Ave Melbourne FL US 32901 ,Protocol unavailable.
-Ethertype,8796,Qualcomm Inc.,6455 Lusk Blvd. San Diego CA US 92121-2779 ,Protocol unavailable.
-Ethertype,8798,Qualcomm Inc.,6455 Lusk Blvd. San Diego CA US 92121-2779 ,Protocol unavailable.
-Ethertype,8799,Qualcomm Inc.,6455 Lusk Blvd. San Diego CA US 92121-2779 ,Protocol unavailable.
-Ethertype,879A,Qualcomm Inc.,6455 Lusk Blvd. San Diego CA US 92121-2779 ,Protocol unavailable.
 Ethertype,879E,Qualcomm Inc.,6455 Lusk Blvd. San Diego CA US 92121-2779 ,Protocol unavailable.
 Ethertype,87A0,Qualcomm Inc.,6455 Lusk Blvd. San Diego CA US 92121-2779 ,Protocol unavailable.
 Ethertype,87A1,Qualcomm Inc.,6455 Lusk Blvd. San Diego CA US 92121-2779 ,Protocol unavailable.
 Ethertype,87A2,Qualcomm Inc.,6455 Lusk Blvd. San Diego CA US 92121-2779 ,Protocol unavailable.
 Ethertype,87A3,Qualcomm Inc.,6455 Lusk Blvd. San Diego CA US 92121-2779 ,Protocol unavailable.
-Ethertype,87D7,Qualcomm Inc.,6455 Lusk Blvd. San Diego CA US 92121-2779 ,Protocol unavailable.
-Ethertype,87DB,Qualcomm Inc.,6455 Lusk Blvd. San Diego CA US 92121-2779 ,Protocol unavailable.
+Ethertype,8796,Qualcomm Inc.,6455 Lusk Blvd. San Diego CA US 92121-2779 ,Protocol unavailable.
+Ethertype,8798,Qualcomm Inc.,6455 Lusk Blvd. San Diego CA US 92121-2779 ,Protocol unavailable.
+Ethertype,8799,Qualcomm Inc.,6455 Lusk Blvd. San Diego CA US 92121-2779 ,Protocol unavailable.
+Ethertype,879A,Qualcomm Inc.,6455 Lusk Blvd. San Diego CA US 92121-2779 ,Protocol unavailable.
+Ethertype,87B2,Qualcomm Inc.,6455 Lusk Blvd. San Diego CA US 92121-2779 ,Protocol unavailable.
+Ethertype,87B4,Qualcomm Inc.,6455 Lusk Blvd. San Diego CA US 92121-2779 ,Protocol unavailable.
 Ethertype,87DD,Qualcomm Inc.,6455 Lusk Blvd. San Diego CA US 92121-2779 ,Protocol unavailable.
 Ethertype,87E3,Qualcomm Inc.,6455 Lusk Blvd. San Diego CA US 92121-2779 ,Protocol unavailable.
 Ethertype,87E6,Qualcomm Inc.,6455 Lusk Blvd. San Diego CA US 92121-2779 ,Protocol unavailable.
 Ethertype,87EA,Qualcomm Inc.,6455 Lusk Blvd. San Diego CA US 92121-2779 ,Protocol unavailable.
 Ethertype,87ED,Qualcomm Inc.,6455 Lusk Blvd. San Diego CA US 92121-2779 ,Protocol unavailable.
+Ethertype,87D3,Qualcomm Inc.,6455 Lusk Blvd. San Diego CA US 92121-2779 ,Protocol unavailable.
+Ethertype,87D7,Qualcomm Inc.,6455 Lusk Blvd. San Diego CA US 92121-2779 ,Protocol unavailable.
+Ethertype,87DB,Qualcomm Inc.,6455 Lusk Blvd. San Diego CA US 92121-2779 ,Protocol unavailable.
 Ethertype,87F1,Qualcomm Inc.,6455 Lusk Blvd. San Diego CA US 92121-2779 ,Protocol unavailable.
 Ethertype,87F3,Qualcomm Inc.,6455 Lusk Blvd. San Diego CA US 92121-2779 ,Protocol unavailable.
 Ethertype,87FA,Qualcomm Inc.,6455 Lusk Blvd. San Diego CA US 92121-2779 ,Protocol unavailable.
-Ethertype,87B2,Qualcomm Inc.,6455 Lusk Blvd. San Diego CA US 92121-2779 ,Protocol unavailable.
-Ethertype,87B4,Qualcomm Inc.,6455 Lusk Blvd. San Diego CA US 92121-2779 ,Protocol unavailable.
-Ethertype,87D3,Qualcomm Inc.,6455 Lusk Blvd. San Diego CA US 92121-2779 ,Protocol unavailable.
 Ethertype,87B9,Qualcomm Inc.,6455 Lusk Blvd. San Diego CA US 92121-2779 ,Protocol unavailable.
+Ethertype,8808,IEEE 802.3 Working Group,"IEEE 802.3 Chair, c/o RAC Administrator, IEEE  Piscataway NJ US 08854 ",MAC Control as defined in IEEE std 802.3
 Ethertype,8743,Siemens  AG,Otto-Han-Ring-6 Munich  DE D-81739 ,Protocol unavailable.
 Ethertype,8745,Siemens  AG,Otto-Han-Ring-6 Munich  DE D-81739 ,Protocol unavailable.
 Ethertype,8748,Hybrid,20863 Stevens Creek Blvd. Cupertino CA US 95014-8750 ,Protocol unavailable.
@@ -774,7 +774,6 @@ Ethertype,88ea,"Aruba, a Hewlett Packard Enterprise Company",3333 Scott Blvd San
 Ethertype,88d6,"Aruba, a Hewlett Packard Enterprise Company",3333 Scott Blvd Santa Clara CA US 95054 ,Aruba Networks L2 AES
 Ethertype,88dc,IEEE P1609 WG,3800 N Fairfax Drive #207 Arlington VA US 22203-1759 , (WAVE) Short Message Protocol (WSM) 
 Ethertype,88ab,ETHERNET Powerlink Standarization Group (EPSG),Gebaude E301 Winterthur  US CH-8401 ,ETHERNET Powerlink (EPL)
-Ethertype,880A,IEEE 802.3,"Bay Networks 4401 Great America Pkwy, Santa Cla CA US 95052-8185 ",Protocol unavailable.
 Ethertype,86DD,USC/ISI,4676 Admiralty Way Marina del Rey CA US 90292 ,Internet Protocol Version 6 (IPV6)
 Ethertype,8395,Private,,Protocol unavailable.
 Ethertype,83BF,Private,,Protocol unavailable.
@@ -1498,22 +1497,23 @@ Ethertype,86BF,"Software Technology, Inc.",1511 Park Ave Melbourne FL US 32901 ,
 Ethertype,86C1,"Software Technology, Inc.",1511 Park Ave Melbourne FL US 32901 ,Protocol unavailable.
 Ethertype,86C4,"Software Technology, Inc.",1511 Park Ave Melbourne FL US 32901 ,Protocol unavailable.
 Ethertype,0800,Xerox,   US  ,"IPv4 Internet Protocol Version Hornig, C., ""A Standard for the Transmission of IP Datagrams over Ethernet Networks,"" RFC-Internet Society, Apr. 1984.                                 http://www.ietf.org/rfc/rfc894.txt"
-Ethertype,87B5,Qualcomm Inc.,6455 Lusk Blvd. San Diego CA US 92121-2779 ,Protocol unavailable.
-Ethertype,87B7,Qualcomm Inc.,6455 Lusk Blvd. San Diego CA US 92121-2779 ,Protocol unavailable.
 Ethertype,87BC,Qualcomm Inc.,6455 Lusk Blvd. San Diego CA US 92121-2779 ,Protocol unavailable.
 Ethertype,87BE,Qualcomm Inc.,6455 Lusk Blvd. San Diego CA US 92121-2779 ,Protocol unavailable.
 Ethertype,87C5,Qualcomm Inc.,6455 Lusk Blvd. San Diego CA US 92121-2779 ,Protocol unavailable.
 Ethertype,87C8,Qualcomm Inc.,6455 Lusk Blvd. San Diego CA US 92121-2779 ,Protocol unavailable.
-Ethertype,87CA,Qualcomm Inc.,6455 Lusk Blvd. San Diego CA US 92121-2779 ,Protocol unavailable.
-Ethertype,87D5,Qualcomm Inc.,6455 Lusk Blvd. San Diego CA US 92121-2779 ,Protocol unavailable.
-Ethertype,87E2,Qualcomm Inc.,6455 Lusk Blvd. San Diego CA US 92121-2779 ,Protocol unavailable.
-Ethertype,87E4,Qualcomm Inc.,6455 Lusk Blvd. San Diego CA US 92121-2779 ,Protocol unavailable.
 Ethertype,87AE,Qualcomm Inc.,6455 Lusk Blvd. San Diego CA US 92121-2779 ,Protocol unavailable.
 Ethertype,87B3,Qualcomm Inc.,6455 Lusk Blvd. San Diego CA US 92121-2779 ,Protocol unavailable.
-Ethertype,879B,Qualcomm Inc.,6455 Lusk Blvd. San Diego CA US 92121-2779 ,Protocol unavailable.
+Ethertype,87B5,Qualcomm Inc.,6455 Lusk Blvd. San Diego CA US 92121-2779 ,Protocol unavailable.
+Ethertype,87B7,Qualcomm Inc.,6455 Lusk Blvd. San Diego CA US 92121-2779 ,Protocol unavailable.
+Ethertype,87E2,Qualcomm Inc.,6455 Lusk Blvd. San Diego CA US 92121-2779 ,Protocol unavailable.
+Ethertype,87E4,Qualcomm Inc.,6455 Lusk Blvd. San Diego CA US 92121-2779 ,Protocol unavailable.
 Ethertype,87EC,Qualcomm Inc.,6455 Lusk Blvd. San Diego CA US 92121-2779 ,Protocol unavailable.
+Ethertype,87CA,Qualcomm Inc.,6455 Lusk Blvd. San Diego CA US 92121-2779 ,Protocol unavailable.
+Ethertype,87D5,Qualcomm Inc.,6455 Lusk Blvd. San Diego CA US 92121-2779 ,Protocol unavailable.
 Ethertype,87F2,Qualcomm Inc.,6455 Lusk Blvd. San Diego CA US 92121-2779 ,Protocol unavailable.
 Ethertype,87F4,Qualcomm Inc.,6455 Lusk Blvd. San Diego CA US 92121-2779 ,Protocol unavailable.
+Ethertype,879B,Qualcomm Inc.,6455 Lusk Blvd. San Diego CA US 92121-2779 ,Protocol unavailable.
+Ethertype,880A,IEEE 802.3 Working Group,"IEEE 802.3 Chair, c/o RAC Administrator, IEEE  Piscataway NJ US 08854 ",Protocol unavailable.
 Ethertype,8952,IEEE 802.1 Working Group,349 Terry Fox Drive Ottawa ON CA K2K 2V6 ,IEEE Std 802.1AX - Distributed Relay Control Protocol (DRCP) EtherType
 Ethertype,8742,Siemens  AG,Otto-Han-Ring-6 Munich  DE D-81739 ,Protocol unavailable.
 Ethertype,8744,Siemens  AG,Otto-Han-Ring-6 Munich  DE D-81739 ,Protocol unavailable.
@@ -2261,29 +2261,29 @@ Ethertype,86BC,"Software Technology, Inc.",1511 Park Ave Melbourne FL US 32901 ,
 Ethertype,86BD,"Software Technology, Inc.",1511 Park Ave Melbourne FL US 32901 ,Protocol unavailable.
 Ethertype,86BB,"Software Technology, Inc.",1511 Park Ave Melbourne FL US 32901 ,Protocol unavailable.
 Ethertype,86C5,"Software Technology, Inc.",1511 Park Ave Melbourne FL US 32901 ,Protocol unavailable.
-Ethertype,87A6,Qualcomm Inc.,6455 Lusk Blvd. San Diego CA US 92121-2779 ,Protocol unavailable.
 Ethertype,87A9,Qualcomm Inc.,6455 Lusk Blvd. San Diego CA US 92121-2779 ,Protocol unavailable.
 Ethertype,87AA,Qualcomm Inc.,6455 Lusk Blvd. San Diego CA US 92121-2779 ,Protocol unavailable.
 Ethertype,87AC,Qualcomm Inc.,6455 Lusk Blvd. San Diego CA US 92121-2779 ,Protocol unavailable.
 Ethertype,87AF,Qualcomm Inc.,6455 Lusk Blvd. San Diego CA US 92121-2779 ,Protocol unavailable.
 Ethertype,87B1,Qualcomm Inc.,6455 Lusk Blvd. San Diego CA US 92121-2779 ,Protocol unavailable.
+Ethertype,87B6,Qualcomm Inc.,6455 Lusk Blvd. San Diego CA US 92121-2779 ,Protocol unavailable.
+Ethertype,87A6,Qualcomm Inc.,6455 Lusk Blvd. San Diego CA US 92121-2779 ,Protocol unavailable.
+Ethertype,87CD,Qualcomm Inc.,6455 Lusk Blvd. San Diego CA US 92121-2779 ,Protocol unavailable.
+Ethertype,87D0,Qualcomm Inc.,6455 Lusk Blvd. San Diego CA US 92121-2779 ,Protocol unavailable.
+Ethertype,87D1,Qualcomm Inc.,6455 Lusk Blvd. San Diego CA US 92121-2779 ,Protocol unavailable.
+Ethertype,87D8,Qualcomm Inc.,6455 Lusk Blvd. San Diego CA US 92121-2779 ,Protocol unavailable.
+Ethertype,87DA,Qualcomm Inc.,6455 Lusk Blvd. San Diego CA US 92121-2779 ,Protocol unavailable.
+Ethertype,87DE,Qualcomm Inc.,6455 Lusk Blvd. San Diego CA US 92121-2779 ,Protocol unavailable.
+Ethertype,87E8,Qualcomm Inc.,6455 Lusk Blvd. San Diego CA US 92121-2779 ,Protocol unavailable.
 Ethertype,87EB,Qualcomm Inc.,6455 Lusk Blvd. San Diego CA US 92121-2779 ,Protocol unavailable.
 Ethertype,87EE,Qualcomm Inc.,6455 Lusk Blvd. San Diego CA US 92121-2779 ,Protocol unavailable.
 Ethertype,87F0,Qualcomm Inc.,6455 Lusk Blvd. San Diego CA US 92121-2779 ,Protocol unavailable.
 Ethertype,87F6,Qualcomm Inc.,6455 Lusk Blvd. San Diego CA US 92121-2779 ,Protocol unavailable.
 Ethertype,87F7,Qualcomm Inc.,6455 Lusk Blvd. San Diego CA US 92121-2779 ,Protocol unavailable.
 Ethertype,87F9,Qualcomm Inc.,6455 Lusk Blvd. San Diego CA US 92121-2779 ,Protocol unavailable.
-Ethertype,87D8,Qualcomm Inc.,6455 Lusk Blvd. San Diego CA US 92121-2779 ,Protocol unavailable.
-Ethertype,87DA,Qualcomm Inc.,6455 Lusk Blvd. San Diego CA US 92121-2779 ,Protocol unavailable.
-Ethertype,87DE,Qualcomm Inc.,6455 Lusk Blvd. San Diego CA US 92121-2779 ,Protocol unavailable.
-Ethertype,87E8,Qualcomm Inc.,6455 Lusk Blvd. San Diego CA US 92121-2779 ,Protocol unavailable.
-Ethertype,87C6,Qualcomm Inc.,6455 Lusk Blvd. San Diego CA US 92121-2779 ,Protocol unavailable.
-Ethertype,87CD,Qualcomm Inc.,6455 Lusk Blvd. San Diego CA US 92121-2779 ,Protocol unavailable.
-Ethertype,87D0,Qualcomm Inc.,6455 Lusk Blvd. San Diego CA US 92121-2779 ,Protocol unavailable.
-Ethertype,87D1,Qualcomm Inc.,6455 Lusk Blvd. San Diego CA US 92121-2779 ,Protocol unavailable.
-Ethertype,87B6,Qualcomm Inc.,6455 Lusk Blvd. San Diego CA US 92121-2779 ,Protocol unavailable.
 Ethertype,87BD,Qualcomm Inc.,6455 Lusk Blvd. San Diego CA US 92121-2779 ,Protocol unavailable.
 Ethertype,87C3,Qualcomm Inc.,6455 Lusk Blvd. San Diego CA US 92121-2779 ,Protocol unavailable.
+Ethertype,87C6,Qualcomm Inc.,6455 Lusk Blvd. San Diego CA US 92121-2779 ,Protocol unavailable.
 Ethertype,88a4,Beckhoff Automation GmbH & Co KG,Huelshorstweg 20 Verl  DE D-33415 ,EtherCAT
 Ethertype,8820,APRESIA Systems Ltd,"Tsukuba Network Technical Center, Kidamari 3550 Tsuchiura-shi Ibaraki-ken JP 300-0026 ","The EtherType Field 8820 assigned for Hitachi Cable is used for 
 Hitachi Cable's proprietary plotocols such as 
@@ -3069,22 +3069,22 @@ Ethertype,86D6,"Software Technology, Inc.",1511 Park Ave Melbourne FL US 32901 ,
 Ethertype,86D8,"Software Technology, Inc.",1511 Park Ave Melbourne FL US 32901 ,Protocol unavailable.
 Ethertype,86D9,"Software Technology, Inc.",1511 Park Ave Melbourne FL US 32901 ,Protocol unavailable.
 Ethertype,86AF,Star Gate Technologies,29300 Aurora Road Solon OH US 44139 ,Protocol unavailable.
+Ethertype,87BB,Qualcomm Inc.,6455 Lusk Blvd. San Diego CA US 92121-2779 ,Protocol unavailable.
+Ethertype,87BF,Qualcomm Inc.,6455 Lusk Blvd. San Diego CA US 92121-2779 ,Protocol unavailable.
+Ethertype,87C1,Qualcomm Inc.,6455 Lusk Blvd. San Diego CA US 92121-2779 ,Protocol unavailable.
+Ethertype,87C2,Qualcomm Inc.,6455 Lusk Blvd. San Diego CA US 92121-2779 ,Protocol unavailable.
 Ethertype,87C9,Qualcomm Inc.,6455 Lusk Blvd. San Diego CA US 92121-2779 ,Protocol unavailable.
 Ethertype,87CE,Qualcomm Inc.,6455 Lusk Blvd. San Diego CA US 92121-2779 ,Protocol unavailable.
 Ethertype,87CF,Qualcomm Inc.,6455 Lusk Blvd. San Diego CA US 92121-2779 ,Protocol unavailable.
 Ethertype,87D2,Qualcomm Inc.,6455 Lusk Blvd. San Diego CA US 92121-2779 ,Protocol unavailable.
 Ethertype,87D4,Qualcomm Inc.,6455 Lusk Blvd. San Diego CA US 92121-2779 ,Protocol unavailable.
 Ethertype,87D6,Qualcomm Inc.,6455 Lusk Blvd. San Diego CA US 92121-2779 ,Protocol unavailable.
-Ethertype,87BB,Qualcomm Inc.,6455 Lusk Blvd. San Diego CA US 92121-2779 ,Protocol unavailable.
-Ethertype,87BF,Qualcomm Inc.,6455 Lusk Blvd. San Diego CA US 92121-2779 ,Protocol unavailable.
-Ethertype,87C1,Qualcomm Inc.,6455 Lusk Blvd. San Diego CA US 92121-2779 ,Protocol unavailable.
-Ethertype,87C2,Qualcomm Inc.,6455 Lusk Blvd. San Diego CA US 92121-2779 ,Protocol unavailable.
-Ethertype,879C,Qualcomm Inc.,6455 Lusk Blvd. San Diego CA US 92121-2779 ,Protocol unavailable.
 Ethertype,879D,Qualcomm Inc.,6455 Lusk Blvd. San Diego CA US 92121-2779 ,Protocol unavailable.
 Ethertype,879F,Qualcomm Inc.,6455 Lusk Blvd. San Diego CA US 92121-2779 ,Protocol unavailable.
+Ethertype,87A8,Qualcomm Inc.,6455 Lusk Blvd. San Diego CA US 92121-2779 ,Protocol unavailable.
 Ethertype,87DF,Qualcomm Inc.,6455 Lusk Blvd. San Diego CA US 92121-2779 ,Protocol unavailable.
 Ethertype,87E0,Qualcomm Inc.,6455 Lusk Blvd. San Diego CA US 92121-2779 ,Protocol unavailable.
-Ethertype,87A8,Qualcomm Inc.,6455 Lusk Blvd. San Diego CA US 92121-2779 ,Protocol unavailable.
+Ethertype,879C,Qualcomm Inc.,6455 Lusk Blvd. San Diego CA US 92121-2779 ,Protocol unavailable.
 Ethertype,87AD,Qualcomm Inc.,6455 Lusk Blvd. San Diego CA US 92121-2779 ,Protocol unavailable.
 Ethertype,87F5,Qualcomm Inc.,6455 Lusk Blvd. San Diego CA US 92121-2779 ,Protocol unavailable.
 Ethertype,A8C8,IEEE 1904 Access Networks Working Group,445 Hoes Lane  Piscataway NJ US 08854-4141 ,"The Virtual Link Control (VLC) protocol for Ethernet-based subscriber access networks. The VLC protocol is specified in IEEE Std. 1904.2. For more information, visit https://www.ieee1904.org/2"
@@ -3093,7 +3093,6 @@ Ethertype,8741,Siemens  AG,Otto-Han-Ring-6 Munich  DE D-81739 ,Protocol unavaila
 Ethertype,874D,Hybrid,20863 Stevens Creek Blvd. Cupertino CA US 95014-8750 ,Protocol unavailable.
 Ethertype,873D,Siemens  AG,Otto-Han-Ring-6 Munich  DE D-81739 ,Protocol unavailable.
 Ethertype,873E,Siemens  AG,Otto-Han-Ring-6 Munich  DE D-81739 ,Protocol unavailable.
-Ethertype,8809,IEEE 802.3,"Bay Networks 4401 Great America Pkwy, Santa Cla CA US 95052-8185 ",Protocol unavailable.
 Ethertype,8100,IEEE 802.1 Working Group,802.1 CHAIR c/o IEEE Piscataway NJ US 08554 ,IEEE Std 802.1Q - VLAN-tagged frame and Shortest Path Bridging IEEE 802.1aq with NNI compatibility
 Ethertype,809B,Private,,Appletalk (Ethertalk)
 Ethertype,891d,TTTech Computertechnik AG,Schoenbrunner Strasse 7 Vienna  AT 1040 ,TTEthernet  Protocol Control Fram (TTE)
@@ -3821,24 +3820,25 @@ Ethertype,86CA,"Software Technology, Inc.",1511 Park Ave Melbourne FL US 32901 ,
 Ethertype,86D3,"Software Technology, Inc.",1511 Park Ave Melbourne FL US 32901 ,Protocol unavailable.
 Ethertype,86B0,Star Gate Technologies,29300 Aurora Road Solon OH US 44139 ,Protocol unavailable.
 Ethertype,89A2,IEEE 802.1 Working Group,445 Hoes Lane Piscataway NJ US 08554 ,Congestion Isolation Message (CIM)
+Ethertype,87AB,Qualcomm Inc.,6455 Lusk Blvd. San Diego CA US 92121-2779 ,Protocol unavailable.
+Ethertype,87B0,Qualcomm Inc.,6455 Lusk Blvd. San Diego CA US 92121-2779 ,Protocol unavailable.
+Ethertype,87B8,Qualcomm Inc.,6455 Lusk Blvd. San Diego CA US 92121-2779 ,Protocol unavailable.
+Ethertype,87A4,Qualcomm Inc.,6455 Lusk Blvd. San Diego CA US 92121-2779 ,Protocol unavailable.
+Ethertype,87A5,Qualcomm Inc.,6455 Lusk Blvd. San Diego CA US 92121-2779 ,Protocol unavailable.
+Ethertype,87A7,Qualcomm Inc.,6455 Lusk Blvd. San Diego CA US 92121-2779 ,Protocol unavailable.
 Ethertype,8797,Qualcomm Inc.,6455 Lusk Blvd. San Diego CA US 92121-2779 ,Protocol unavailable.
-Ethertype,87D9,Qualcomm Inc.,6455 Lusk Blvd. San Diego CA US 92121-2779 ,Protocol unavailable.
 Ethertype,87DC,Qualcomm Inc.,6455 Lusk Blvd. San Diego CA US 92121-2779 ,Protocol unavailable.
 Ethertype,87E1,Qualcomm Inc.,6455 Lusk Blvd. San Diego CA US 92121-2779 ,Protocol unavailable.
 Ethertype,87E5,Qualcomm Inc.,6455 Lusk Blvd. San Diego CA US 92121-2779 ,Protocol unavailable.
 Ethertype,87E7,Qualcomm Inc.,6455 Lusk Blvd. San Diego CA US 92121-2779 ,Protocol unavailable.
 Ethertype,87E9,Qualcomm Inc.,6455 Lusk Blvd. San Diego CA US 92121-2779 ,Protocol unavailable.
-Ethertype,87B8,Qualcomm Inc.,6455 Lusk Blvd. San Diego CA US 92121-2779 ,Protocol unavailable.
 Ethertype,87BA,Qualcomm Inc.,6455 Lusk Blvd. San Diego CA US 92121-2779 ,Protocol unavailable.
 Ethertype,87C0,Qualcomm Inc.,6455 Lusk Blvd. San Diego CA US 92121-2779 ,Protocol unavailable.
 Ethertype,87C4,Qualcomm Inc.,6455 Lusk Blvd. San Diego CA US 92121-2779 ,Protocol unavailable.
-Ethertype,87A5,Qualcomm Inc.,6455 Lusk Blvd. San Diego CA US 92121-2779 ,Protocol unavailable.
-Ethertype,87A7,Qualcomm Inc.,6455 Lusk Blvd. San Diego CA US 92121-2779 ,Protocol unavailable.
-Ethertype,87AB,Qualcomm Inc.,6455 Lusk Blvd. San Diego CA US 92121-2779 ,Protocol unavailable.
-Ethertype,87B0,Qualcomm Inc.,6455 Lusk Blvd. San Diego CA US 92121-2779 ,Protocol unavailable.
 Ethertype,87C7,Qualcomm Inc.,6455 Lusk Blvd. San Diego CA US 92121-2779 ,Protocol unavailable.
 Ethertype,87CB,Qualcomm Inc.,6455 Lusk Blvd. San Diego CA US 92121-2779 ,Protocol unavailable.
 Ethertype,87CC,Qualcomm Inc.,6455 Lusk Blvd. San Diego CA US 92121-2779 ,Protocol unavailable.
+Ethertype,87D9,Qualcomm Inc.,6455 Lusk Blvd. San Diego CA US 92121-2779 ,Protocol unavailable.
 Ethertype,87EF,Qualcomm Inc.,6455 Lusk Blvd. San Diego CA US 92121-2779 ,Protocol unavailable.
 Ethertype,87F8,Qualcomm Inc.,6455 Lusk Blvd. San Diego CA US 92121-2779 ,Protocol unavailable.
-Ethertype,87A4,Qualcomm Inc.,6455 Lusk Blvd. San Diego CA US 92121-2779 ,Protocol unavailable.
+Ethertype,8809,IEEE 802.3 Working Group,"IEEE 802.3 Chair, c/o RAC Administrator, IEEE  Piscataway NJ US 08854 ",Slow Protocols as defined in IEEE std 802.3

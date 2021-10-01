@@ -14,10 +14,8 @@ Ethertype,88d8,Metro Ethernet Forum,1300 Bristol St. N. Suite 160 Newport Beach 
 Ethertype,8900,Red Lion,820 S. University Blvd. Mobile AL US 36609 ,Red Lion Controls Inc. proprietary
 Ethertype,88eb,"Aruba, a Hewlett Packard Enterprise Company",3333 Scott Blvd Santa Clara CA US 95054 ,This is an application for a second e-type from Aruba at this time.
 Ethertype,8907,Zhejiang University,"Institute of Advanced Process Control,Zhejiang University Hangzhou Zhejiang CN 310027 ","DRP(Distributed Redundancy Protocol) is a high availability ethernet protocol developed by Zhejiang University. This protocol guarantee short recovery time in case of either link failure or switch failure. And in this protocol, all switches are distributed and equal without master and slave. This protocol is useful for ring/tree/star topology."
-Ethertype,22EA,IEEE 802.1 Working Group,11a Poplar Grove Sale  US M33 3AX ,Stream Reservation Protocol
 Ethertype,892F,International Electrotechnical Commission,"3, rue de Varembé Geneva GE CH CH-1211 ",High-availability Seamless Redundancy (HSR) protocol
 Ethertype,88cd,sercos international e.V.,Küblerstrasse 1 Süssen Baden-Württemberg DE 73079 ,SERCOS interface 
-Ethertype,88cc,IEEE 802.1 Working Group,802.1 CHAIR c/o IEEE Piscataway NJ US 08554 ,Link Layer Discovery Protocol (LLDP)
 Ethertype,B4E3,"Cable Television Laboratories, Inc (CableLabs)",858 Coal Creek Circle Louisville CO US 80027 ,Use for varies special communications on various projects
 Ethertype,8392,Private,,Protocol unavailable.
 Ethertype,8397,Private,,Protocol unavailable.
@@ -174,19 +172,6 @@ Ethertype,E890,Telecor Inc.,6205 Kestrel Road Mississauga Ontario CA L5T 2A1 ,Te
 Ethertype,8930,"Google, Inc.",1600 Amphitheatre Parkway  Mountain View CA US 94043 ,"Layer II protocol for data center switches
 "
 Ethertype,AEFE,CPRI Cooperation c/o Ericsson AB,Torshamnsgatan 21 Stockholm  SE 164 40 ,The protocol for this Ethertype is specified by CPRI Industry Cooperation and found at http://www.cpri.info
-Ethertype,8940,IEEE 802.1 Working Group,802.1 CHAIR c/o IEEE Piscataway NJ US 08554 ,"The ECP protocol acts as a simple transport mechanism for the configuration protocols used in edge virtual bridging (P802.1Qbg) and port extension P802.1BR). The current draft is located at:
-
-http://www.ieee802.org/1/files/private/bg-drafts/d2/802-1qbg-d2-0.pdf
-
-user: p8021
-pass: go_wildcats"
-Ethertype,88f5,IEEE 802.1 Working Group,802.1 CHAIR c/o IEEE Piscataway NJ US 08554 ,"PROTOCOL:
-IEEE Std 802.1Q - Multiple VLAN Registration Protocol (MVRP)
-
-URL: http://www.ieee802.org/1/files/private/ak-drafts/d6/802-1ak-d6-0.pdf
-
-"
-Ethertype,88b6,IEEE 802.1 Working Group,802.1 CHAIR c/o IEEE Piscataway NJ US 08554 ,"IEEE Std 802 - Local Experimental Ethertype 2.  This Ethertype value is available for public use and for prototype and vendor-specific protocol development, as defined in Amendment 802a to IEEE Std 802."
 Ethertype,A0ED,IETF 6lo working group,c/o Internet Society Reston VA US 20190-5108 ,"When carried over layer 2 technologies such as Ethernet, this ethertype
 will be used to identify IPv6 datagrams using LoWPAN encapsulation as defined
 in IETF RFC 4944 ""Transmission of IPv6 Packets over IEEE 802.15.4 Networks"""
@@ -764,6 +749,16 @@ Ethertype,87FA,Qualcomm Inc.,6455 Lusk Blvd. San Diego CA US 92121-2779 ,Protoco
 Ethertype,87B9,Qualcomm Inc.,6455 Lusk Blvd. San Diego CA US 92121-2779 ,Protocol unavailable.
 Ethertype,8808,IEEE 802.3 Working Group,"IEEE 802.3 Chair, c/o RAC Administrator, IEEE  Piscataway NJ US 08854 ",MAC Control as defined in IEEE std 802.3
 Ethertype,880B,US Robotics,8100 North McCormick Blvd Skokie IL US 60076-2999 ,Protocol unavailable.
+Ethertype,88f5,IEEE 802.1 Chair," c/o RAC Administrator , IEEE Piscataway NJ US 08554 ","Multiple VLAN Registration Protocol (MVRP) defined in IEEE Std 802.1Q 
+"
+Ethertype,88b6,IEEE 802.1 Chair," c/o RAC Administrator , IEEE Piscataway NJ US 08554 ",Local Experimental EtherType 2 as defined in IEEE Std 802.  This EtherType value is available for public use and for prototype and vendor-specific protocol development.
+Ethertype,88cc,IEEE 802.1 Chair," c/o RAC Administrator , IEEE Piscataway NJ US 08554 ",Link Layer Discovery Protocol (LLDP) defined in IEEE Std 802.1AB
+Ethertype,22EA,IEEE 802.1 Chair," c/o RAC Administrator , IEEE Piscataway NJ US 08554 ",Stream Reservation Protocol (SRP) defined in IEEE Std 802.1Q
+Ethertype,8940,IEEE 802.1 Chair," c/o RAC Administrator , IEEE Piscataway NJ US 08554 ","Edge Control Protocol (ECP) defined in IEEE Std 802.1Q for use with IEEE Std 802.1BR
+http://www.ieee802.org/1/files/private/bg-drafts/d2/802-1qbg-d2-0.pdf
+
+user: p8021
+pass: go_wildcats"
 Ethertype,8743,Siemens  AG,Otto-Han-Ring-6 Munich  DE D-81739 ,Protocol unavailable.
 Ethertype,8745,Siemens  AG,Otto-Han-Ring-6 Munich  DE D-81739 ,Protocol unavailable.
 Ethertype,8748,Hybrid,20863 Stevens Creek Blvd. Cupertino CA US 95014-8750 ,Protocol unavailable.
@@ -925,20 +920,11 @@ Ethertype,8693,Private,,Protocol unavailable.
 Ethertype,8805,Private,,Protocol unavailable.
 Ethertype,8879,Expand Networks,Atidim Tech Park - Bldg. 4 TelAviv  IL 61580 ,Protocol unavailable.
 Ethertype,894F,"Cisco Systems, Inc",3800 Zankar Rd San Jose CA US 95134 ,894F: NSH (Network Service Header). Reference: draft-ietf-sfc-nsh-18
-Ethertype,8870,IEEE 802.1 Working Group,50 Great Oaks Blvd. San Jose CA US 95119 ,Jumbo frames
 Ethertype,8936,Ericsson AB,Flöjelbergsgatan 2a Mölndal  SE SE-431 84 ,A protocol for exchange of radio data frames between a network forwarding device and a radio device. Protocol details may be released at a later stage.
 Ethertype,88bf,Proxim Corporation,28 Bay View Road Wellesley MA US 02482 ,"For encapsulation of Ethernet packets being transmitted between switch-like
 devices to carry device specific information"
 Ethertype,ED3E,IETF Routing Area,5177 Brandin Court Fremont CA US 94538 ,"EtherType is FoRCES inter-FE LFB type.
 Contains packet-processing meta-data followed by encapsulated packet. See https://datatracker.ietf.org/doc/draft-ietf-forces-interfelfb/ "
-Ethertype,8929,IEEE 802.1 Working Group,802.1 CHAIR c/o IEEE Piscataway NJ US 08554 ,"Multiple I-SID registration protocol, specified in the IEEE 802.1Qbe standard.
-
-"
-Ethertype,894B,IEEE 802.1 Working Group,802.1 CHAIR c/o IEEE Piscataway NJ US 08554 ,"The specification of the protocol associated with the F-TAG can be found in the current draft of P802.1Qbp, located here:
-
-http://www.ieee802.org/1/files/private/bp-drafts/d1/802-1bp-d1-4.pdf
-"
-Ethertype,88b5,IEEE 802.1 Working Group,802.1 CHAIR c/o IEEE Piscataway NJ US 08554 ,"IEEE Std 802 - Local Experimental Ethertype 1. This Ethertype value is available for public use for prototype and vendor-specific protocol development, as defined in Amendment 802a to IEEE Std 802."
 Ethertype,9999,Adtran Inc,901 Explorer Blvd. Huntsville AL US 35806 ,"ADTRAN does not currently wish to disclose it's protocols, but may desire to do so in the future."
 Ethertype,8932,"Mellanox Technologies, Inc.","350 Oakmead Parkway, Suite 100  Sunnyvale CA US 94085 ","Mellanox discovery and configuration protocol.
 "
@@ -1514,7 +1500,12 @@ Ethertype,87F2,Qualcomm Inc.,6455 Lusk Blvd. San Diego CA US 92121-2779 ,Protoco
 Ethertype,87F4,Qualcomm Inc.,6455 Lusk Blvd. San Diego CA US 92121-2779 ,Protocol unavailable.
 Ethertype,879B,Qualcomm Inc.,6455 Lusk Blvd. San Diego CA US 92121-2779 ,Protocol unavailable.
 Ethertype,880A,IEEE 802.3 Working Group,"IEEE 802.3 Chair, c/o RAC Administrator, IEEE  Piscataway NJ US 08854 ",Protocol unavailable.
-Ethertype,8952,IEEE 802.1 Working Group,349 Terry Fox Drive Ottawa ON CA K2K 2V6 ,IEEE Std 802.1AX - Distributed Relay Control Protocol (DRCP) EtherType
+Ethertype,88b5,IEEE 802.1 Chair," c/o RAC Administrator , IEEE Piscataway NJ US 08554 ",Local Experimental EtherType 1 as defined in IEEE Std 802.  This EtherType value is available for public use and for prototype and vendor-specific protocol development.
+Ethertype,894B,IEEE 802.1 Chair," c/o RAC Administrator , IEEE Piscataway NJ US 08554 ",flow filtering tag (F-TAG) as defined in IEEE Std 802.1Q
+Ethertype,8929,IEEE 802.1 Chair," c/o RAC Administrator , IEEE Piscataway NJ US 08554 ","Multiple I-SID Registration
+Protocol (MIRP) as defined in IEEE Std 802.1Q
+"
+Ethertype,8870,IEEE 802.1 Chair," c/o RAC Administrator , IEEE Piscataway NJ US 08554 ",LLC encapsulation as defined by IEEE Std 802.1AC.
 Ethertype,8742,Siemens  AG,Otto-Han-Ring-6 Munich  DE D-81739 ,Protocol unavailable.
 Ethertype,8744,Siemens  AG,Otto-Han-Ring-6 Munich  DE D-81739 ,Protocol unavailable.
 Ethertype,80F6,Siemens  AG,Otto-Han-Ring-6 Munich  DE D-81739 ,Protocol unavailable.
@@ -1523,8 +1514,6 @@ Ethertype,88f1,Rajant Corporation,400 East King Street Malvern PA US 19355 ,"Thi
 Ethertype,8915,"Mellanox Technologies, Inc.","350 Oakmead Parkway, Suite 100  Sunnyvale CA US 94085 ",RoCE - RDMA over Converged Ethernet
 Ethertype,88e7,Nortel,M/S P7903B12 Santa Clara CA US 95054 ,Provider Backbone Bridges (PBB)
 Ethertype,88e3,SIEMENS AG,Oestliche Rheinbrückenstraße 50 Karlsruhe Baden-Württemberg DE 76181 ,MRP (medium redundancy protocol)
-Ethertype,88a8,IEEE 802.1 Working Group,802.1 CHAIR c/o IEEE Piscataway NJ US 08554 ,Provider Bridging (IEEE 802.1ad) and Shortest Path Bridging (IEEE 801.1aq)
-Ethertype,888e,IEEE 802.1 Working Group,802.1 CHAIR c/o IEEE Piscataway NJ US 08554 ,Ethernet Access Protocol (EAP) over LAN
 Ethertype,886d,Intel Corporation,JF3-410 Hillsboro OR US 97124 ,Intel Advanced Networking Services
 Ethertype,8137,"Novell, Inc.",122 EAST 1700 SOUTH Provo UT US  84606 ,Internetwork Packet Exchange (IPX)
 Ethertype,8138,"Novell, Inc.",122 EAST 1700 SOUTH Provo UT US  84606 ,Internetwork Packet Exchange (IPX)
@@ -1691,9 +1680,6 @@ Ethertype,C111,"Soraa, Inc.",6500 Kaiser Dr Suite 110 Fremont CA US 94555 ,A sim
 Ethertype,FC3D,IEEE 1914 Next Generation Fronthaul Interface  Working Group,445 Hoes Lane Piscataway NJ US 08854-4141 ,IEEE P1914.3 standard describes the encapsulation and mappings of digitized radio data into the Ethernet frame payload field. The protocol solution requires the frames to be readily distinguishable from other types of frames.
 Ethertype,FC0F,Senetas Corporation Ltd,Level 1 / 11 Queens Road Melbourne VICTORIA AU 3004 ,Proprietary protocol.
 Ethertype,DDB3,"Schweitzer Engineering Laboratories, Inc.",2350 NE Hopkins Court Pullman WA US 99163 ,"This Ethertype enables high-speed deterministic transport of OT communications through corporate IT Ethernet. For VLAN tagged frames, the Ethertype appears after the VLAN tag header, and is followed by an SEL-managed sub-type field."
-Ethertype,22E9,IEEE 802.1 Working Group,11a Poplar Grove Sale  US M33 3AX ,Protocol unavailable.
-Ethertype,22E7,IEEE 802.1 Working Group,11a Poplar Grove Sale  US M33 3AX ,Protocol unavailable.
-Ethertype,F1C1,IEEE 802.1 Working Group,445 Hoes Lane Piscataway NJ US 08854 ,"Tag provides a sequence number.  Packets can then be duplicated, sent along different paths, and the duplicates deleted when the paths reconverge.  The format is EtherType, 2 bytes reserved (incl. 2 bits subtype), two bytes of sequence number"
 Ethertype,8822,Wind River Systems,1010 Atlantic Ave. Alameda CA US 94501 ,Protocol unavailable.
 Ethertype,8956,Japan Cable Television Engineering Association,6-28-8 Shinjuku Shinjuku-ku Tokyo JP 1600022 ,"Protocol_Type (Ethertype)    16 bits
 Protocol Subtype                    16 bits
@@ -2291,6 +2277,12 @@ Hitachi Cable's proprietary plotocols such as
 PHDP(PHysical Discovery Protocol)
 VLTP(VLan Transmission Protocol)
 MMRP(Multi Master Ring Protocol)"
+Ethertype,F1C1,IEEE 802.1 Chair," c/o RAC Administrator , IEEE Piscataway NJ US 08554 ",Redundancy tag (R-TAG) as defined in IEEE Std 802.1CB
+Ethertype,22E7,IEEE 802.1 Chair," c/o RAC Administrator , IEEE Piscataway NJ US 08554 ",Congestion Notification Message (CNM) as defined in IEEE Std 802.1Q
+Ethertype,22E9,IEEE 802.1 Chair," c/o RAC Administrator , IEEE Piscataway NJ US 08554 ",Congestion Notification Tag (CN-TAG) as defined in IEEE Std 802.1Q
+Ethertype,888e,IEEE 802.1 Chair," c/o RAC Administrator , IEEE Piscataway NJ US 08554 ",Port Access Entity (PAE) for Ethernet Access Protocol (EAP) over LAN (EAPOL) as defined in IEEE Std 802.1X
+Ethertype,88a8,IEEE 802.1 Chair," c/o RAC Administrator , IEEE Piscataway NJ US 08554 ",Service VLAN Tag (S-TAG) or Backbone VLAN Tag (B-TAG) as defined in IEEE Std 802.1Q
+Ethertype,8952,IEEE 802.1 Chair," c/o RAC Administrator , IEEE Piscataway NJ US 08554 ",Distributed Relay Control Protocol (DRCP) as defined in IEEE Std 802.1AX
 Ethertype,80DD,Private,,Protocol unavailable.
 Ethertype,B6FE,EtherCAT Technology Group,Ostendstr. 196 NUremberg  DE 90482 ,"Routing functionality through branch controllers is added to the EtherCAT technology by the new EtherCAT G enhancement. IP routing is not available and VLAN based routing does not meet the requirements, so we need an own Ethertype for that purpose."
 Ethertype,8747,Hybrid,20863 Stevens Creek Blvd. Cupertino CA US 95014-8750 ,Protocol unavailable.
@@ -2301,7 +2293,6 @@ Ethertype,8113,Micrognosis International,160 Queen Victoria St. London EC4V 4DA 
 Ethertype,8746,Siemens  AG,Otto-Han-Ring-6 Munich  DE D-81739 ,Protocol unavailable.
 Ethertype,8861,Intel Corporation,2111 NE 25th Ave. Hillsborough OR US 97124 ,Protocol unavailable.
 Ethertype,0806,"Symbolics, Inc.",243 Vassar Street Cambridge  US 02139 ,Address Resolution Protocol - A. R. P.
-Ethertype,88e5,IEEE 802 LAN/MAN Standards Committee,C/O IEEE SA Standards Office Piscataway NJ US 08855-1331 ,MAC Security
 Ethertype,88e1,"HomePlug Powerline Alliance, Inc.","2400 Camino Ramon, #375 San Ramon  US 94583 ",HomePlug Specification AV MME
 Ethertype,88a2,Coraid Inc.,565 Research Dr. Athens GA US 30605 ,Advanced Technology Advancement (ATA) Protocol
 Ethertype,889a,Data Storage Institute,"DSI Building, 5 Engineering Drive 1 Kent Ridge Crescent NUS SG 117608 ",SCSI over Ethernet
@@ -2478,7 +2469,6 @@ Ethertype,884B,Stratus Technologies,"5 Mill and Main Place, Suite 500 Maynard MA
 Ethertype,8824,"Ipsilon Networks, Inc.",2191 E. Bayshore Rd Palo Alto CA US 94303 ,Protocol unavailable.
 Ethertype,22E6,Nethra Imaging Incorporated,2855 Bowers Ave Santa Clara CA US 95051 ,http://expether.org
 Ethertype,8901,Nokia Networks/IP Mobility Networks,P.O.BOX 370 Espoo  FI FI-00045 Nok ,Flow Layer Internal Protocol (FLIP) for inter-unit messaging.
-Ethertype,88b7,IEEE 802.1 Working Group,802.1 CHAIR c/o IEEE Piscataway NJ US 08554 ,"IEEE Std 802 - OUI Extended Ethertype. This Ethertype value is available for public use and for prototype and vendor-specific protocol development, as defined in Amendment 802a to IEEE Std 802."
 Ethertype,820C,"Xyplex, Inc.",330 Codman Hill Road Boxborough MA US 01719 ,Protocol unavailable.
 Ethertype,820F,"Xyplex, Inc.",330 Codman Hill Road Boxborough MA US 01719 ,Protocol unavailable.
 Ethertype,8923,PHOENIX CONTACT Electronics GmbH,Dringenauer Strasse 30 Bad Pyrmont Lower Saxony DE D-31812 ,Protocol unavailable
@@ -3089,11 +3079,12 @@ Ethertype,87F5,Qualcomm Inc.,6455 Lusk Blvd. San Diego CA US 92121-2779 ,Protoco
 Ethertype,A8C8,IEEE 1904 Access Networks Working Group,445 Hoes Lane  Piscataway NJ US 08854-4141 ,"The Virtual Link Control (VLC) protocol for Ethernet-based subscriber access networks. The VLC protocol is specified in IEEE Std. 1904.2. For more information, visit https://www.ieee1904.org/2"
 Ethertype,A85A,"Huawei Technologies Co., Ltd."," Bantian, Longgang District, Shenzhen, 518129, P.R.C Shenzhen GUANGDONG Province CN 518000 ",This Ethertype will be used to identify a new type of protocol used for device to device communication in Wireless LAN
 Ethertype,99FE,ASAM e.V.,Leopoldstraße 236 Munich  DE 80807 ,"Technically Enhanced Capture Module Protocol (TECMP).  This layer 2 protocol allows capturing, logging, and debugging of all automotive communication technologies (e.g. CAN, FR, LIN, and Ethernet). It uses high precision HW timestamps."
+Ethertype,88b7,IEEE 802.1 Chair," c/o RAC Administrator , IEEE Piscataway NJ US 08554 ",OUI Extended EtherType as defined in IEEE Std 802. This EtherType value is available for public use and for prototype and vendor-specific protocol development.
+Ethertype,88e5,IEEE 802.1 Working Group,"IEEE 802.1 Chair, c/o RAC Administrator IEEE Piscataway NJ US 08854 ",Media Access Control (MAC) Security tag as defined in IEEE Std 802.1AE
 Ethertype,8741,Siemens  AG,Otto-Han-Ring-6 Munich  DE D-81739 ,Protocol unavailable.
 Ethertype,874D,Hybrid,20863 Stevens Creek Blvd. Cupertino CA US 95014-8750 ,Protocol unavailable.
 Ethertype,873D,Siemens  AG,Otto-Han-Ring-6 Munich  DE D-81739 ,Protocol unavailable.
 Ethertype,873E,Siemens  AG,Otto-Han-Ring-6 Munich  DE D-81739 ,Protocol unavailable.
-Ethertype,8100,IEEE 802.1 Working Group,802.1 CHAIR c/o IEEE Piscataway NJ US 08554 ,IEEE Std 802.1Q - VLAN-tagged frame and Shortest Path Bridging IEEE 802.1aq with NNI compatibility
 Ethertype,809B,Private,,Appletalk (Ethertalk)
 Ethertype,891d,TTTech Computertechnik AG,Schoenbrunner Strasse 7 Vienna  AT 1040 ,TTEthernet  Protocol Control Fram (TTE)
 Ethertype,AD3F,Tibit Communications,"1 Willowbrook Court, Suite 150 Petaluma CA US 94954 ",The protocol allows PON OLTs to coordinate scheduling and other PON management functions across multiple OLTs on the same layer-2 domain.
@@ -3267,13 +3258,6 @@ The ""Manager"" and WBS encapsulate data / management / control information tran
 Ethertype,EC19,AirTies Wireless Networks,"Mithat Ulu Ünlü Sokak No. 23  Esentepe, Şişli  ISTANBUL ISTANBUL TR 34394 ",proprietary
 Ethertype,891b,InfoSpark Technology Institute,"Room 1907, Quantum Plaza, 27 Zhichun Road, Haidian District, Beijing  CN 100083 ",TAEPOL (TAEP over LANs).
 Ethertype,D672,InMon Corp.,"1 Sansome Street, FL35 San Francisco CA US 94104 ",sFlow is is a multi-vendor measurement technology for sampling packets in Ethernet devices.
-Ethertype,88f6,IEEE 802.1 Working Group,802.1 CHAIR c/o IEEE Piscataway NJ US 08554 ,"IEEE Std 802.1Q - Multiple Multicast Registration Protocol (MMRP)
-
-URL: http://www.ieee802.org/1/files/private/ak-drafts/d6/802-1ak-d6-0.pdf
-"
-Ethertype,22E2,IEEE 802.1 Working Group,802.1 CHAIR c/o IEEE Piscataway NJ US 08554 ,"This Ethertype is needed for standards use in conjunction with IEEE P802.1aj, which defines a MAC status protocol (MSP)."
-Ethertype,893F,IEEE 802.1 Working Group,802.1 CHAIR c/o IEEE Piscataway NJ US 08554 ,Protocol unavailable.
-Ethertype,C9D1,IEEE 802.1 Working Group,802.1 CHAIR c/o IEEE Piscataway NJ US 08554 ,"The protocol is detailed in draft 3.0 of 802.1AC-Rev, clause 12, at http://www.ieee802.org/1/files/private/ac-rev-drafts/d3/802-1ac-rev-d3-0.pdf"
 Ethertype,8031,PCS Systemtechnik GmbH,600 Suffold St Lowell MA US 01854 ,Protocol unavailable.
 Ethertype,820B,"Xyplex, Inc.",330 Codman Hill Road Boxborough MA US 01719 ,Protocol unavailable.
 Ethertype,821A,"Xyplex, Inc.",330 Codman Hill Road Boxborough MA US 01719 ,Protocol unavailable.
@@ -3809,7 +3793,6 @@ Ethertype,6000,DEC,1925 Andover St. Tewksbury MA US 01876 ,Protocol unavailable.
 Ethertype,6006,DEC,1925 Andover St. Tewksbury MA US 01876 ,Protocol unavailable.
 Ethertype,81E0,Hewlett Packard,1501 Page Mill Road Palo Alto CA US 94304 ,Protocol unavailable.
 Ethertype,8914,Brocade Communications Systems LLC,1320 Ridder Park Dr San Jose CA US 95131 ,FIP Storage Access Protocol
-Ethertype,8902,IEEE 802.1 Working Group,11a Poplar Grove Sale Cheshire GB M33 3AX ,Connectivity Fault Management (CFM) protocol.
 Ethertype,454C,SR RESEARCH LTD,SR Research Ltd. Mississauga Ontario CA L4X 1R3 ,Protocol unavailable.
 Ethertype,8951,Nokia Solutions and Networks GmbH & Co. KG,Werinherstrasse 91 München Bavaria DE D-81541 ,BTS internal protocol for inter-unit messaging
 Ethertype,EADD,"Huawei Technologies, Co., Ltd","No 156 Beiqing Road, Haidian District Beijing  CN 100095 ",This Ethertype will be used to identify a new type of network protocol supporting the multi-labels communication pattern and its comprehensive interoperation.
@@ -3819,7 +3802,6 @@ Ethertype,86C9,"Software Technology, Inc.",1511 Park Ave Melbourne FL US 32901 ,
 Ethertype,86CA,"Software Technology, Inc.",1511 Park Ave Melbourne FL US 32901 ,Protocol unavailable.
 Ethertype,86D3,"Software Technology, Inc.",1511 Park Ave Melbourne FL US 32901 ,Protocol unavailable.
 Ethertype,86B0,Star Gate Technologies,29300 Aurora Road Solon OH US 44139 ,Protocol unavailable.
-Ethertype,89A2,IEEE 802.1 Working Group,445 Hoes Lane Piscataway NJ US 08554 ,Congestion Isolation Message (CIM)
 Ethertype,87AB,Qualcomm Inc.,6455 Lusk Blvd. San Diego CA US 92121-2779 ,Protocol unavailable.
 Ethertype,87B0,Qualcomm Inc.,6455 Lusk Blvd. San Diego CA US 92121-2779 ,Protocol unavailable.
 Ethertype,87B8,Qualcomm Inc.,6455 Lusk Blvd. San Diego CA US 92121-2779 ,Protocol unavailable.
@@ -3842,3 +3824,11 @@ Ethertype,87D9,Qualcomm Inc.,6455 Lusk Blvd. San Diego CA US 92121-2779 ,Protoco
 Ethertype,87EF,Qualcomm Inc.,6455 Lusk Blvd. San Diego CA US 92121-2779 ,Protocol unavailable.
 Ethertype,87F8,Qualcomm Inc.,6455 Lusk Blvd. San Diego CA US 92121-2779 ,Protocol unavailable.
 Ethertype,8809,IEEE 802.3 Working Group,"IEEE 802.3 Chair, c/o RAC Administrator, IEEE  Piscataway NJ US 08854 ",Slow Protocols as defined in IEEE std 802.3
+Ethertype,C9D1,IEEE 802.1 Chair," c/o RAC Administrator , IEEE Piscataway NJ US 08554 ",Legacy assignment (use 8870 instead) - LLC encapsulation as defined by IEEE Std 802.1AC-2016.
+Ethertype,893F,IEEE 802.1 Chair," c/o RAC Administrator , IEEE Piscataway NJ US 08554 ","Bridge Port Extension tag (E-TAG) as defined in IEEE Std 802.1BR
+"
+Ethertype,22E2,IEEE 802.1 Chair," c/o RAC Administrator , IEEE Piscataway NJ US 08554 ",MAC Status Protocol (MSP) as defined in IEEE Std 802.1Q
+Ethertype,88f6,IEEE 802.1 Chair," c/o RAC Administrator , IEEE Piscataway NJ US 08554 ",Multiple MAC Registration Protocol (MMRP) as defined in IEEE Std 802.1Q
+Ethertype,8100,IEEE 802.1 Chair," c/o RAC Administrator , IEEE Piscataway NJ US 08554 ",Customer VLAN Tag (C-TAG) as defined in IEEE Std 802.1Q
+Ethertype,89A2,IEEE 802.1 Chair," c/o RAC Administrator , IEEE Piscataway NJ US 08554 ",Congestion Isolation Message (CIM) as defined in IEEE 802.1Qcz amendment to IEEE Std 802.1Q
+Ethertype,8902,IEEE 802.1 Chair," c/o RAC Administrator , IEEE Piscataway NJ US 08554 ",Connectivity Fault Management (CFM) Protocol Data Unit (PDU) Encapsulation as defined in IEEE 802.1Q

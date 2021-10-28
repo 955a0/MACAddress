@@ -6217,6 +6217,8 @@ MA-L,A05950,Intel Corporate,"Lot 8, Jalan Hi-Tech 2/3   Kulim Kedah MY 09000 "
 MA-L,5089D1,"Huawei Device Co., Ltd.","No.2 of Xincheng Road, Songshan Lake Zone Dongguan Guangdong CN 523808 "
 MA-L,BCD074,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
 MA-L,2CDD5F,"Shenzhen iComm Semiconductor CO.,LTD","Room 504A,Block B,Digital Building,Gargen City,No.1079,Nanhai Road,Nanshan District,Shenzhen. Shenzhen  CN 518067 "
+MA-L,40FE95,"New H3C Technologies Co., Ltd","466 Changhe Road, Binjiang District Hangzhou Zhejiang CN 310052 "
+MA-L,00620B,Broadcom Limited,15191 Alton Parkway Irvine CA US 92618 
 MA-L,9CFFC2,AVI Systems GmbH,Dr. Franz Wilhelmstraße 2A Krems a. d. Donau  AT 3500 
 MA-L,44D878,"Hui Zhou Gaoshengda Technology Co.,LTD","No.75,Zhongkai High-Tech Development District,Huizhou Hui Zhou Guangdong CN 516006 "
 MA-L,A0D807,"Huawei Device Co., Ltd.","No.2 of Xincheng Road, Songshan Lake Zone Dongguan Guangdong CN 523808 "
@@ -12345,14 +12347,15 @@ MA-L,4C7713,Renesas Electronics (Penang) Sdn. Bhd.,"Phase 3, Bayan Lepas FIZ Bay
 MA-L,6C4BB4,"HUMAX Co., Ltd.","HUMAX Village, 216, Hwangsaeul-ro, Bu Seongnam-si Gyeonggi-do KR 463-875 "
 MA-L,589BF7,"Hefei Radio Communication Technology Co., Ltd "," No.108, YinXing Road, High-tech Development Zone  Hefei Anhui CN 230088 "
 MA-L,50E9DF,"Quectel Wireless Solutions Co.,Ltd.","7th Floor, Hongye Building, No.1801 Hongmei Road, Xuhui District Shanghai  CN 200233 "
+MA-L,E8FA23,"Huawei Device Co., Ltd.","No.2 of Xincheng Road, Songshan Lake Zone Dongguan Guangdong CN 523808 "
+MA-L,EC3A52,"Huawei Device Co., Ltd.","No.2 of Xincheng Road, Songshan Lake Zone Dongguan Guangdong CN 523808 "
 MA-L,441B88,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
 MA-L,80045F,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
 MA-L,9C3E53,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
-MA-L,C889F3,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
-MA-L,E8FA23,"Huawei Device Co., Ltd.","No.2 of Xincheng Road, Songshan Lake Zone Dongguan Guangdong CN 523808 "
-MA-L,EC3A52,"Huawei Device Co., Ltd.","No.2 of Xincheng Road, Songshan Lake Zone Dongguan Guangdong CN 523808 "
 MA-L,60109E,"HUAWEI TECHNOLOGIES CO.,LTD","No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park Dongguan  CN 523808 "
+MA-L,C889F3,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
 MA-L,10B9C4,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
+MA-L,7CB566,Intel Corporate,"Lot 8, Jalan Hi-Tech 2/3   Kulim Kedah MY 09000 "
 MA-L,848094,"Meter, Inc.",148 Townsend St San Francisco CA US 94107 
 MA-L,10B3D5,"Cisco Systems, Inc",80 West Tasman Drive San Jose CA US 94568 
 MA-L,30A2C2,"Huawei Device Co., Ltd.","No.2 of Xincheng Road, Songshan Lake Zone Dongguan Guangdong CN 523808 "
@@ -16850,7 +16853,6 @@ MA-L,0002F5,"VIVE Synergies, Inc.","30 West Beaver Creek Road, Unit 101   CA L4B
 MA-L,0002D5,ACR,Cardoulines B2   FR  
 MA-L,0002AB,"CTC Union Technologies Co., Ltd.",8F No. 60 Zhouzi St. Neihu Taipei TW 114 
 MA-L,0002A4,"AddPac Technology Co., Ltd.","3F Jeoung Am Bldg., 769-12 Seoul Seoul KR Korea "
-MA-L,0002A3,"ABB Switzerland Ltd, Power Systems",Bruggerstrasse 72 Baden  CH  
 MA-L,0002A0,Flatstack Ltd.,1112 Budapest   HU  
 MA-L,0002B2,Cablevision,420 Crossways Park Drive West Woodbury NY US 11787 
 MA-L,0002B7,"Watanabe Electric Industry Co., Ltd.","6-16-19, Jingumae, Shibuya-ku   JP  "
@@ -18538,6 +18540,8 @@ MA-L,48352B,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014
 MA-L,4CE6C0,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
 MA-L,3888A4,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
 MA-L,44DA30,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
+MA-L,0002A3,Hitachi Energy Switzerland Ltd,Bruggerstrasse 72 Baden  CH 5400 
+MA-L,84160C,Broadcom Limited,15191 Alton Parkway Irvine CA US 92618 
 MA-L,F8D027,Seiko Epson Corporation,2070 Kotobuki Koaka Matsumoto-shi Nagano-ken JP 399-8702 
 MA-L,5C666C,"GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD","NO.18 HAIBIN ROAD, DONG GUAN GUANG DONG CN 523860 "
 MA-L,4C4BF9,IEEE Registration Authority,445 Hoes Lane Piscataway NJ US 08554 
@@ -22582,7 +22586,6 @@ MA-L,000C0D,Communications & Power Industries / Satcom Division,811 Hansen Way M
 MA-L,000C01,Abatron AG,Lettenstrasse 9 Rotkreuz  CH CH-6343 
 MA-L,000C39,Sentinel Wireless Inc.,439 S. Union St. South Lawrence MA US 01843 
 MA-L,000C33,Compucase Enterprise Co. Ltd.,"225 Lane 54, An Ho Road, Section 2nd. Tainan City  TW 70942 "
-MA-L,000C36,"SHARP TAKAYA ELECTRONICS INDUSTRY CO.,LTD.",3121-1 Satomi Satosho-cho Asakuchi-gun Okayama JP 719-0301 
 MA-L,000BF6,"Nitgen Co., Ltd","4th FL. 1337-31 Seocho-dong, Seocho-ku Seoul  KR 137-860 "
 MA-L,000BFD,"Cisco Systems, Inc",80 West Tasman Drive San Jose CA US 94568 
 MA-L,000BFA,EXEMYS SRL,LOYOLA 680 CAPITAL FEDERAL BS AS AR C1414 
@@ -24706,15 +24709,15 @@ MA-L,34CE69,Nokia Solutions and Networks GmbH & Co. KG,Werinherstrasse 91 Münch
 MA-L,70B8F6,Espressif Inc.,"Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
 MA-L,149E5D,"JSC ""IB Reform""","Varshavskoe shosse, 125, bld. 1, s. 3, fl. 6, room 10/23 Moscow  RU 117587 "
 MA-L,F82551,Seiko Epson Corporation,2070 Kotobuki Koaka Matsumoto-shi Nagano-ken JP 399-8702 
-MA-L,E484D3,Xiaomi Communications Co Ltd,"#019, 9th Floor, Building 6, 33 Xi'erqi Middle Road Beijing Haidian District CN 100085 "
 MA-L,04106B,Xiaomi Communications Co Ltd,"#019, 9th Floor, Building 6, 33 Xi'erqi Middle Road Beijing Haidian District CN 100085 "
 MA-L,04CCBC,"HUAWEI TECHNOLOGIES CO.,LTD","No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park Dongguan  CN 523808 "
 MA-L,1CE504,"HUAWEI TECHNOLOGIES CO.,LTD","No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park Dongguan  CN 523808 "
 MA-L,2C0BAB,"HUAWEI TECHNOLOGIES CO.,LTD","No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park Dongguan  CN 523808 "
+MA-L,94D2BC,"HUAWEI TECHNOLOGIES CO.,LTD","No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park Dongguan  CN 523808 "
 MA-L,E0A25A,"Shanghai Mo xiang Network Technology CO.,ltd","Room#418-421, ShaHeXiLi, 2-2 XiLi North Road, LiCheng Community, Xili Street, NanShan District, Shenzhen City Shenzhen Guangdong CN 518071 "
+MA-L,E484D3,Xiaomi Communications Co Ltd,"#019, 9th Floor, Building 6, 33 Xi'erqi Middle Road Beijing Haidian District CN 100085 "
 MA-L,147EA1,Britania Eletrônicos S.A.,"Dona Francisca St. 12340, Pirabeiraba Joinville Santa Catarina BR 89239-270 "
 MA-L,E81656,"Hangzhou BroadLink Technology Co.,Ltd","Room 101,1/F,Unit C,Building 1,No.57 Jiang'er Road,Changhe Street,Binjiang District,Hangzhou,Zhejiang,P.R.China Hangzhou Zhejiang CN 310052 "
-MA-L,94D2BC,"HUAWEI TECHNOLOGIES CO.,LTD","No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park Dongguan  CN 523808 "
 MA-L,7453A8,ACL Airshop BV,Kantoorweg 7 West Knollendam NH NL 1525 RJ 
 MA-L,201F54,"Raisecom Technology CO., LTD","No. 11, East Area, No. 10 Block, East Xibeiwang Road Beijing  CN 100094 "
 MA-L,7C97E1,"Huawei Device Co., Ltd.","No.2 of Xincheng Road, Songshan Lake Zone Dongguan Guangdong CN 523808 "
@@ -24724,6 +24727,8 @@ MA-L,98A5F9,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014
 MA-L,ECA907,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
 MA-L,68C8EB,Rockwell Automation,1 Allen-Bradley Dr. Mayfield Heights OH US 44124-6118 
 MA-L,348511,"Shenzhen Skyworth  Digital  Technology  CO., Ltd","4F,Block A, Skyworth?Building, Shenzhen Guangdong CN 518057 "
+MA-L,E0D045,Intel Corporate,"Lot 8, Jalan Hi-Tech 2/3   Kulim Kedah MY 09000 "
+MA-L,000C36,"S-Takaya Electronics Industry Co.,Ltd.",3121-1 Satomi Satosyo-cho Asakuchi-gun Okayama JP 719-0301 
 MA-L,7C8AE1,"COMPAL INFORMATION (KUNSHAN) CO., LTD. ","NO. 25, THE 3RD Street KUNSHAN EXPORT PROCESSING ZONE  KUNSHAN SUZHOU CN 215300 "
 MA-L,54E4A9,BHR Tech GmbH,Georg-Franz-Koller-Straße 18 Bisamberg  AT 2102 
 MA-L,208058,Ciena Corporation,7035 Ridge Road Hanover MD US 21076 
@@ -30872,9 +30877,6 @@ MA-L,4C53FD,Amazon Technologies Inc.,P.O Box 8102  Reno NV US 89507
 MA-L,3C8B7F,"Cisco Systems, Inc",80 West Tasman Drive San Jose CA US 94568 
 MA-L,0011E5,KCodes Corporation,"7F., No. 252, Sec. 1, Neihu Rd., Neihu Dist. Taipei City TW 114 "
 MA-L,A083B4,HeNet B.V.,Kalkhofseweg 20 Haps  NL 5443NA 
-MA-L,74B7E6,Zegna-Daidong Limited," Rooms 14-17, 18/F, Nan Fung Commercial, Centre 19 Lam Lok Street, Kowloon Bay Hong Kong  HK 999077 "
-MA-L,485AEA,"Fiberhome Telecommunication Technologies Co.,LTD",No.5 DongXin Road Wuhan Hubei CN 430074 
-MA-L,848102,"Fiberhome Telecommunication Technologies Co.,LTD",No.5 DongXin Road Wuhan Hubei CN 430074 
 MA-L,54E005,"Fiberhome Telecommunication Technologies Co.,LTD",No.5 DongXin Road Wuhan Hubei CN 430074 
 MA-L,04FF08,"Huawei Device Co., Ltd.","No.2 of Xincheng Road, Songshan Lake Zone Dongguan Guangdong CN 523808 "
 MA-L,00A45F,"Huawei Device Co., Ltd.","No.2 of Xincheng Road, Songshan Lake Zone Dongguan Guangdong CN 523808 "
@@ -30882,5 +30884,9 @@ MA-L,FCE26C,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014
 MA-L,4C7975,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
 MA-L,1C7125,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
 MA-L,34FE77,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
-MA-L,6CE5C9,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
+MA-L,485AEA,"Fiberhome Telecommunication Technologies Co.,LTD",No.5 DongXin Road Wuhan Hubei CN 430074 
+MA-L,848102,"Fiberhome Telecommunication Technologies Co.,LTD",No.5 DongXin Road Wuhan Hubei CN 430074 
 MA-L,98B785,"Shenzhen 10Gtek Transceivers Co., Limited","Blg 3, COFCO, Liuxian 2nd Road, Shenzhen Guangdong CN 518000 "
+MA-L,ECDA59,"New H3C Technologies Co., Ltd","466 Changhe Road, Binjiang District Hangzhou Zhejiang CN 310052 "
+MA-L,74B7E6,Zegna-Daidong Limited," Rooms 14-17, 18/F, Nan Fung Commercial, Centre 19 Lam Lok Street, Kowloon Bay Hong Kong  HK 999077 "
+MA-L,6CE5C9,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 

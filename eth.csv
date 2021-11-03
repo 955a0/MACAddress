@@ -1275,7 +1275,6 @@ www.netcoretec.com"
 Ethertype,889b,Mindspeed Technologies,Les Taissounieres HB1 Sophia Antipolis Cedex  US 06903 ,"This EtherType Field designates the CSM_ENCAPS protocol.  It is a connectionless protocol designed to allow the assignment of Ethernet MAC addresses to devices on the Ethernet, as well as reliable data transport once MAC addresses are assigned.  The CSM_ENCAPS protocol is typically used in media gateway systems designed using Mindspeed Technologies devices.  Refer to www.mindspeed.com for further information."
 Ethertype,889e,"Remotec, Inc.",114 Union Valley Road Oakridge TN US 37830 ,Remotec Robot deterministic heartbeat and safety critical control and status protocol for hazardous duty robotic vehicles.
 Ethertype,88ad,XiMeta Technology Americas Inc.,54 Ray Street New Brunswick NJ US 08901 ,"We are manufacturing a series of devices that are connected to the Ethernet requiring secure data transmission.  Because of the security reasons, the communication between the devices is done through a proprietary communication protocol instead of well known protocols such as IP.  We therefore need an Ethertype Field for the Ethernet frame to embed our proprietary communication protocol."
-Ethertype,88f2,Honeywell International HPS,512 Virginia Dr Ft. Washington PA US 19034 ,WNSIA - Wireless Network for Secure Industrial Application protocol suite
 Ethertype,891e,CipherOptics,701 Corporate Center Drive Raleigh NC US 27607 ,"CipherOptics does not currently wish to disclose this protocol but may desire to do so in the future.
 
 www.cipheroptics.com"
@@ -1506,6 +1505,7 @@ Ethertype,8929,IEEE 802.1 Chair," c/o RAC Administrator , IEEE Piscataway NJ US 
 Protocol (MIRP) as defined in IEEE Std 802.1Q
 "
 Ethertype,8870,IEEE 802.1 Chair," c/o RAC Administrator , IEEE Piscataway NJ US 08554 ",LLC encapsulation as defined by IEEE Std 802.1AC.
+Ethertype,88f2,Honeywell,512 Virginia Dr Ft. Washington PA US 19034 ,WNSIA - Wireless Network for Secure Industrial Application protocol suite
 Ethertype,8742,Siemens  AG,Otto-Han-Ring-6 Munich  DE D-81739 ,Protocol unavailable.
 Ethertype,8744,Siemens  AG,Otto-Han-Ring-6 Munich  DE D-81739 ,Protocol unavailable.
 Ethertype,80F6,Siemens  AG,Otto-Han-Ring-6 Munich  DE D-81739 ,Protocol unavailable.

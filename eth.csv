@@ -3832,3 +3832,4 @@ Ethertype,88f6,IEEE 802.1 Chair," c/o RAC Administrator , IEEE Piscataway NJ US 
 Ethertype,89A2,IEEE 802.1 Chair," c/o RAC Administrator , IEEE Piscataway NJ US 08554 ",Congestion Isolation Message (CIM) as defined in IEEE 802.1Qcz amendment to IEEE Std 802.1Q
 Ethertype,8902,IEEE 802.1 Chair," c/o RAC Administrator , IEEE Piscataway NJ US 08554 ",Connectivity Fault Management (CFM) Protocol Data Unit (PDU) Encapsulation as defined in IEEE 802.1Q
 Ethertype,8100,IEEE 802.1 Chair," c/o RAC Administrator , IEEE Piscataway NJ US 08554 ",Customer VLAN Tag (C-TAG) as defined in IEEE Std 802.1Q
+Ethertype,CCE0,"Video Services Forum, Inc.",208 84th Street 08242 Sea Isle City NJ US 08243 ,"Reliable Internet Stream Transport is an open source, open specification transport protocol designed for reliable transmission of video over lossy networks (including the internet) with low latency and high quality."

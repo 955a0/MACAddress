@@ -1282,11 +1282,6 @@ Ethertype,8916,Element Labs,3350 Scott Blvd Santa Clara CA US 95054 ,"PXL video 
 Valid first two octets of frame payload are: (00-01 thru 00-6F), (00-EE thru 00-FE),
 (80-10 thru 80-6F), (80-EE thru 80-FE)."
 Ethertype,8912,Gigle Semiconductor,Barcelona Activa- Vivero Glorias Barcelona  ES 08018 ,Ethertype used for mediaxtream Specification protocols
-Ethertype,890d,IEEE 802.11,4950G Almaden Expy. San Jose CA US 95118-2005 ,"Ethertype name: ""802.11 management protocol""
-
-Ethertype description: ""The 802.11 management protocol is used to transport management information in 802.11 networks.""
-
-"
 Ethertype,890a,WIT,138 Avenue Leon Beranger St-Laurent-Du-Var France FR 06706 ,"Protocol WIO 
 For Building Automation "
 Ethertype,88fe,LS Industrial Systems. Co. Ltd.,"533, Hogye-dong Dongan-gu Anayang-si Gyeonggi-do KR 431-080 ","The newly developed protocol of LS Industrial Systems is the real-time Ethernet (RTE) protocol that designed for supporting several topologies of ring, line and star based on ISO/IEC 8802-3. Especially this protocol is suitable for high reliable automation network control systems that need minimum redundancy recovery time. The redundancy recovery time means the maximum time from failure to become fully operational again in case of a single permanent failure
@@ -1506,13 +1501,13 @@ Protocol (MIRP) as defined in IEEE Std 802.1Q
 "
 Ethertype,8870,IEEE 802.1 Chair," c/o RAC Administrator , IEEE Piscataway NJ US 08554 ",LLC encapsulation as defined by IEEE Std 802.1AC.
 Ethertype,88f2,Honeywell,512 Virginia Dr Ft. Washington PA US 19034 ,WNSIA - Wireless Network for Secure Industrial Application protocol suite
+Ethertype,890d,IEEE 802.11 Working Group,c/o RAC Administrator Piscataway  NJ US 08854 ,Management protocol as defined in IEEE Std 802.11
 Ethertype,8742,Siemens  AG,Otto-Han-Ring-6 Munich  DE D-81739 ,Protocol unavailable.
 Ethertype,8744,Siemens  AG,Otto-Han-Ring-6 Munich  DE D-81739 ,Protocol unavailable.
 Ethertype,80F6,Siemens  AG,Otto-Han-Ring-6 Munich  DE D-81739 ,Protocol unavailable.
 Ethertype,873F,Siemens  AG,Otto-Han-Ring-6 Munich  DE D-81739 ,Protocol unavailable.
 Ethertype,88f1,Rajant Corporation,400 East King Street Malvern PA US 19355 ,"This ethertype is used exclusively by Rajant's BreadCrumb(R) Wireless Network.  Rajant's BreadCrumb Wireless Network is a robust, rapidly deployable mesh network with a highly mobile infrastructure.  For more information please visit http://www.rajant.com"
 Ethertype,8915,"Mellanox Technologies, Inc.","350 Oakmead Parkway, Suite 100  Sunnyvale CA US 94085 ",RoCE - RDMA over Converged Ethernet
-Ethertype,88e7,Nortel,M/S P7903B12 Santa Clara CA US 95054 ,Provider Backbone Bridges (PBB)
 Ethertype,88e3,SIEMENS AG,Oestliche Rheinbrückenstraße 50 Karlsruhe Baden-Württemberg DE 76181 ,MRP (medium redundancy protocol)
 Ethertype,886d,Intel Corporation,JF3-410 Hillsboro OR US 97124 ,Intel Advanced Networking Services
 Ethertype,8137,"Novell, Inc.",122 EAST 1700 SOUTH Provo UT US  84606 ,Internetwork Packet Exchange (IPX)
@@ -1695,9 +1690,6 @@ Ethertype,8218,"Xyplex, Inc.",330 Codman Hill Road Boxborough MA US 01719 ,Proto
 Ethertype,8102,Nortel Networks,8200 Dixie Rd Brampton Ontario CA 0000 ,Protocol unavailable.
 Ethertype,8103,Nortel Networks,8200 Dixie Rd Brampton Ontario CA 0000 ,Protocol unavailable.
 Ethertype,8034,PIXEL COMPUTER INC.,260 Fordham Road Wilmington MA US 01887 ,Protocol unavailable.
-Ethertype,88c7,IEEE 802.11,4125 Highlander Parkway Richfield Ohio US 44286 ,"IEEE 802.11i Pre-Authentication.
-
-The IEEE 802.11i ammendment is currently in Sponsor Ballot. The protocol is defined in the IEEE 802.11i draft."
 Ethertype,B7EA,"Huawei Technologies, Co., Ltd","No 156 Beiqing Road, Haidian District Beijing  CN 100095 ","The Ethertype will be used to identify a “Channel” in which control messages are encapsulated as payload of GRE packets. When a GRE packet tagged with the EtherType is received, the payload will be handed to the network processor for processing."
 Ethertype,8925,General Dynamics Mission Systems,150 Rustcraft Road Dedham MA US 02026 ,Fortress Mesh Protocol
 Ethertype,88e2,"JAPAN RADIO CO., LTD.",5-1-1 Shimorenjaku Mitaka-City Tokyo JP 181-8510 ,"Japan Radio Co., Ltd.
@@ -2283,6 +2275,8 @@ Ethertype,22E9,IEEE 802.1 Chair," c/o RAC Administrator , IEEE Piscataway NJ US 
 Ethertype,888e,IEEE 802.1 Chair," c/o RAC Administrator , IEEE Piscataway NJ US 08554 ",Port Access Entity (PAE) for Ethernet Access Protocol (EAP) over LAN (EAPOL) as defined in IEEE Std 802.1X
 Ethertype,88a8,IEEE 802.1 Chair," c/o RAC Administrator , IEEE Piscataway NJ US 08554 ",Service VLAN Tag (S-TAG) or Backbone VLAN Tag (B-TAG) as defined in IEEE Std 802.1Q
 Ethertype,8952,IEEE 802.1 Chair," c/o RAC Administrator , IEEE Piscataway NJ US 08554 ",Distributed Relay Control Protocol (DRCP) as defined in IEEE Std 802.1AX
+Ethertype,88c7,IEEE 802.11 Working Group,c/o RAC Administrator Piscataway  NJ US 08854 ,RSNA Preauthentication as defined in IEEE Std 802.11
+Ethertype,88e7,IEEE 802.1 Working Group,M/S P7903B12 Santa Clara CA US 95054 ,Backbone Service Instance Tag (I-TAG) as defined in IEEE Std 802.1Q
 Ethertype,80DD,Private,,Protocol unavailable.
 Ethertype,B6FE,EtherCAT Technology Group,Ostendstr. 196 NUremberg  DE 90482 ,"Routing functionality through branch controllers is added to the EtherCAT technology by the new EtherCAT G enhancement. IP routing is not available and VLAN based routing does not meet the requirements, so we need an own Ethertype for that purpose."
 Ethertype,8747,Hybrid,20863 Stevens Creek Blvd. Cupertino CA US 95014-8750 ,Protocol unavailable.

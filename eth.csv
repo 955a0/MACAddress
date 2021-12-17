@@ -2275,8 +2275,8 @@ Ethertype,22E9,IEEE 802.1 Chair," c/o RAC Administrator , IEEE Piscataway NJ US 
 Ethertype,888e,IEEE 802.1 Chair," c/o RAC Administrator , IEEE Piscataway NJ US 08554 ",Port Access Entity (PAE) for Ethernet Access Protocol (EAP) over LAN (EAPOL) as defined in IEEE Std 802.1X
 Ethertype,88a8,IEEE 802.1 Chair," c/o RAC Administrator , IEEE Piscataway NJ US 08554 ",Service VLAN Tag (S-TAG) or Backbone VLAN Tag (B-TAG) as defined in IEEE Std 802.1Q
 Ethertype,8952,IEEE 802.1 Chair," c/o RAC Administrator , IEEE Piscataway NJ US 08554 ",Distributed Relay Control Protocol (DRCP) as defined in IEEE Std 802.1AX
-Ethertype,88c7,IEEE 802.11 Working Group,c/o RAC Administrator Piscataway  NJ US 08854 ,RSNA Preauthentication as defined in IEEE Std 802.11
 Ethertype,88e7,IEEE 802.1 Working Group,M/S P7903B12 Santa Clara CA US 95054 ,Backbone Service Instance Tag (I-TAG) as defined in IEEE Std 802.1Q
+Ethertype,88c7,IEEE 802.11 Working Group,c/o RAC Administrator Piscataway  NJ US 08854 ,RSNA Preauthentication as defined in IEEE Std 802.11
 Ethertype,80DD,Private,,Protocol unavailable.
 Ethertype,B6FE,EtherCAT Technology Group,Ostendstr. 196 NUremberg  DE 90482 ,"Routing functionality through branch controllers is added to the EtherCAT technology by the new EtherCAT G enhancement. IP routing is not available and VLAN based routing does not meet the requirements, so we need an own Ethertype for that purpose."
 Ethertype,8747,Hybrid,20863 Stevens Creek Blvd. Cupertino CA US 95014-8750 ,Protocol unavailable.

@@ -528,7 +528,6 @@ Ethertype,8911,Enea,1100 Park St NE Washington DC US 20002 ,"The complete descri
 This is the SourceForge web site. Look under Project/Web to direct you to the LINX homepage. Or you may go directly to the documents homepage at:
 	http://linx.sourceforge.net
 "
-Ethertype,8910,LAN/MAN Standards Association (LMSC),C/O IEEE Standards Association Piscataway NJ US 08855-1331 ,See box above.
 Ethertype,88f3,AlaxalA Networks Corporation,Shinkawasaki Mitsui Building West Tower 13F Kawasaki Kanagawa JP 212-0058 ,protocol unavailable
 Ethertype,88e6,Nortel,M/S P7903B12 Santa Clara CA US 95054 ,Nortel Ethernet OAM protocol.
 Ethertype,88bc,International Telecommunication Union - Telecommunication St,Place des Nations Geneva 20  CH CH-1211 ,Protocol unavailable.
@@ -759,6 +758,7 @@ http://www.ieee802.org/1/files/private/bg-drafts/d2/802-1qbg-d2-0.pdf
 
 user: p8021
 pass: go_wildcats"
+Ethertype,8910,IEEE 802.1 Working Group,C/O IEEE Standards Association Piscataway NJ US 08855-1331 ,Encapsulated Addresses for use with the Backbone Service Instance as defined in IEEE Std 802.1Q
 Ethertype,8743,Siemens  AG,Otto-Han-Ring-6 Munich  DE D-81739 ,Protocol unavailable.
 Ethertype,8745,Siemens  AG,Otto-Han-Ring-6 Munich  DE D-81739 ,Protocol unavailable.
 Ethertype,8748,Hybrid,20863 Stevens Creek Blvd. Cupertino CA US 95014-8750 ,Protocol unavailable.

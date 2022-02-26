@@ -3075,6 +3075,7 @@ Ethertype,A85A,"Huawei Technologies Co., Ltd."," Bantian, Longgang District, She
 Ethertype,99FE,ASAM e.V.,Leopoldstraße 236 Munich  DE 80807 ,CMP enables the recording of the data of in-vehicle communication systems via a decentralized logging network based on Ethernet as physical layer. This allows remote monitoring and control of data captured via different interfaces from the capture modules
 Ethertype,88b7,IEEE 802.1 Chair," c/o RAC Administrator , IEEE Piscataway NJ US 08554 ",OUI Extended EtherType as defined in IEEE Std 802. This EtherType value is available for public use and for prototype and vendor-specific protocol development.
 Ethertype,88e5,IEEE 802.1 Working Group,"IEEE 802.1 Chair, c/o RAC Administrator IEEE Piscataway NJ US 08854 ",Media Access Control (MAC) Security tag as defined in IEEE Std 802.1AE
+Ethertype,AAC5,Analog Devices Inc,1 Technology Way Norwood MA US MA02062 ,For implementation of protocol still in development
 Ethertype,8741,Siemens  AG,Otto-Han-Ring-6 Munich  DE D-81739 ,Protocol unavailable.
 Ethertype,874D,Hybrid,20863 Stevens Creek Blvd. Cupertino CA US 95014-8750 ,Protocol unavailable.
 Ethertype,873D,Siemens  AG,Otto-Han-Ring-6 Munich  DE D-81739 ,Protocol unavailable.

@@ -1499,9 +1499,9 @@ Ethertype,894B,IEEE 802.1 Chair," c/o RAC Administrator , IEEE Piscataway NJ US 
 Ethertype,8929,IEEE 802.1 Chair," c/o RAC Administrator , IEEE Piscataway NJ US 08554 ","Multiple I-SID Registration
 Protocol (MIRP) as defined in IEEE Std 802.1Q
 "
-Ethertype,8870,IEEE 802.1 Chair," c/o RAC Administrator , IEEE Piscataway NJ US 08554 ",LLC encapsulation as defined by IEEE Std 802.1AC.
 Ethertype,88f2,Honeywell,512 Virginia Dr Ft. Washington PA US 19034 ,WNSIA - Wireless Network for Secure Industrial Application protocol suite
 Ethertype,890d,IEEE 802.11 Working Group,c/o RAC Administrator Piscataway  NJ US 08854 ,Management protocol as defined in IEEE Std 802.11
+Ethertype,8870,IEEE 802.1 Working Group," c/o RAC Administrator , IEEE Piscataway NJ US 08554 ",LLC encapsulation as defined by IEEE Std 802.1AC.
 Ethertype,8742,Siemens  AG,Otto-Han-Ring-6 Munich  DE D-81739 ,Protocol unavailable.
 Ethertype,8744,Siemens  AG,Otto-Han-Ring-6 Munich  DE D-81739 ,Protocol unavailable.
 Ethertype,80F6,Siemens  AG,Otto-Han-Ring-6 Munich  DE D-81739 ,Protocol unavailable.

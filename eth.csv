@@ -195,8 +195,6 @@ Ethertype,81A6,RAD Network Devices Inc.,4455 Torrance Blvd. Torrance CA US 90503
 Ethertype,81A9,RAD Network Devices Inc.,4455 Torrance Blvd. Torrance CA US 90503 ,Protocol unavailable.
 Ethertype,8167,"Keithley Instruments, Inc.",Systems Division Cleveland OH US 44139 ,Protocol unavailable.
 Ethertype,0660,Dlog,Gmbh D-8037 Olching  DE  ,Protocol unavailable.
-Ethertype,8100,WellFleet Communications,12 DeAngelo Drive Bedford MA US 01730 - 2204 ,Protocol unavailable.
-Ethertype,8103,WellFleet Communications,12 DeAngelo Drive Bedford MA US 01730 - 2204 ,Protocol unavailable.
 Ethertype,875E,The University of Utah,Dept of Computer Science Salt Lake City UT US 84112 ,Protocol unavailable.
 Ethertype,8762,The University of Utah,Dept of Computer Science Salt Lake City UT US 84112 ,Protocol unavailable.
 Ethertype,8764,The University of Utah,Dept of Computer Science Salt Lake City UT US 84112 ,Protocol unavailable.
@@ -256,8 +254,6 @@ Ethertype,018B,Xerox (Experimental), Webster NY US  ,Protocol unavailable.
 Ethertype,0196,Xerox (Experimental), Webster NY US  ,Protocol unavailable.
 Ethertype,0199,Xerox (Experimental), Webster NY US  ,Protocol unavailable.
 Ethertype,017A,Xerox (Experimental), Webster NY US  ,Protocol unavailable.
-Ethertype,0B01,Universitiy of Berkeley,   US  ,Protocol unavailable.
-Ethertype,0B02,Universitiy of Berkeley,   US  ,Protocol unavailable.
 Ethertype,8049,Private,,Protocol unavailable.
 Ethertype,8060,Private,,Protocol unavailable.
 Ethertype,0200,Private,,Protocol unavailable.
@@ -628,14 +624,12 @@ Ethertype,8753,Digital Ocean,35 Corporate Woods Overland Park KS US 66210 ,Proto
 Ethertype,8754,Digital Ocean,35 Corporate Woods Overland Park KS US 66210 ,Protocol unavailable.
 Ethertype,C22B,University of Berkeley,   US  ,Protocol unavailable.
 Ethertype,C22D,University of Berkeley,   US  ,Protocol unavailable.
-Ethertype,0B07,Berkeley Reserved,   US  ,Protocol unavailable.
 Ethertype,C020,University of Berkeley,   US  ,Protocol unavailable.
 Ethertype,C022,University of Berkeley,   US  ,Protocol unavailable.
 Ethertype,C025,University of Berkeley,   US  ,Protocol unavailable.
 Ethertype,C028,University of Berkeley,   US  ,Protocol unavailable.
 Ethertype,C02D,University of Berkeley,   US  ,Protocol unavailable.
 Ethertype,C02F,University of Berkeley,   US  ,Protocol unavailable.
-Ethertype,0B01,Real Time Internet Protocol scheme 2,   US  ,Protocol unavailable.
 Ethertype,826B,Legent Corporation,LANSpy Development Manager Pittsburg PA US  15212 ,Protocol unavailable.
 Ethertype,A580,Siemens Gammasonics,   US  ,Protocol unavailable.
 Ethertype,8286,"Wang Laboratories, Inc.",M/S 013-390 Lowell MA US 95124 ,Protocol unavailable.
@@ -684,7 +678,6 @@ Ethertype,80D5,IBM Corp.,PO Box 12195 Research Triangle Park NC US 27709 ,Protoc
 Ethertype,80DA,IBM Corp.,PO Box 12195 Research Triangle Park NC US 27709 ,Protocol unavailable.
 Ethertype,8104,Locus Computing Corp.,3330 Ocean Park Boulevard Santa Monica CA US 90405 ,Protocol unavailable.
 Ethertype,8109,Locus Computing Corp.,3330 Ocean Park Boulevard Santa Monica CA US 90405 ,Protocol unavailable.
-Ethertype,810C,Locus Computing Corp.,3330 Ocean Park Boulevard Santa Monica CA US 90405 ,Protocol unavailable.
 Ethertype,8037,GenRad,Component Test Division Bolton MA US 01740 ,Protocol unavailable.
 Ethertype,806B,Ridge Computers,2451 Mission College Blvd. Santa Clara CA US 95054 ,Protocol unavailable.
 Ethertype,8050,"Stanford Telecomm., Inc.",2421 Mission College Blvd. Santa Clara CA US 95050 ,Protocol unavailable.
@@ -759,6 +752,8 @@ user: p8021
 pass: go_wildcats"
 Ethertype,8910,IEEE 802.1 Working Group,"IEEE 802.1 Chair, c/o RAC Administrator IEEE Piscataway NJ US 08854  ",Encapsulated Addresses for use with the Backbone Service Instance as defined in IEEE Std 802.1Q
 Ethertype,880B,US Robotics Corporation,"1300 E. Woodfield Roar, Suite: 506 Schaumburg IL US 60173 ",PPP - IETF RFC 2637
+Ethertype,0B07,University of Berkeley,   US  ,Berkeley Reserved
+Ethertype,0B01,University of Berkeley,   US  ,Real Time Internet Protocol scheme 2
 Ethertype,8743,Siemens  AG,Otto-Han-Ring-6 Munich  DE D-81739 ,Protocol unavailable.
 Ethertype,8745,Siemens  AG,Otto-Han-Ring-6 Munich  DE D-81739 ,Protocol unavailable.
 Ethertype,8748,Hybrid,20863 Stevens Creek Blvd. Cupertino CA US 95014-8750 ,Protocol unavailable.
@@ -1000,8 +995,6 @@ Ethertype,01AA,Xerox (Experimental), Webster NY US  ,Protocol unavailable.
 Ethertype,01AB,Xerox (Experimental), Webster NY US  ,Protocol unavailable.
 Ethertype,8015,Private,,Protocol unavailable.
 Ethertype,8016,Private,,Protocol unavailable.
-Ethertype,0B03,Universitiy of Berkeley,   US  ,Protocol unavailable.
-Ethertype,0B06,Universitiy of Berkeley,   US  ,Protocol unavailable.
 Ethertype,01F2,Xerox (Experimental), Webster NY US  ,Protocol unavailable.
 Ethertype,01F4,Xerox (Experimental), Webster NY US  ,Protocol unavailable.
 Ethertype,019E,Xerox (Experimental), Webster NY US  ,Protocol unavailable.
@@ -1392,7 +1385,6 @@ Ethertype,8751,Digital Ocean,35 Corporate Woods Overland Park KS US 66210 ,Proto
 Ethertype,8733,"Combinet, Inc.",333 West El Camino Real Sunnyvale CA US 94087 ,Protocol unavailable.
 Ethertype,8737,"Combinet, Inc.",333 West El Camino Real Sunnyvale CA US 94087 ,Protocol unavailable.
 Ethertype,C22A,University of Berkeley,   US  ,Protocol unavailable.
-Ethertype,0B05,Berkeley Reserved,   US  ,Protocol unavailable.
 Ethertype,C023,University of Berkeley,   US  ,Protocol unavailable.
 Ethertype,C027,University of Berkeley,   US  ,Protocol unavailable.
 Ethertype,C229,University of Berkeley,   US  ,Protocol unavailable.
@@ -1436,12 +1428,10 @@ Ethertype,8141,Micronetics Design Corp.,5 Choke Cherry Rd Rockville MD US 20850 
 Ethertype,80D6,IBM Corp.,PO Box 12195 Research Triangle Park NC US 27709 ,Protocol unavailable.
 Ethertype,80D8,IBM Corp.,PO Box 12195 Research Triangle Park NC US 27709 ,Protocol unavailable.
 Ethertype,80D9,IBM Corp.,PO Box 12195 Research Triangle Park NC US 27709 ,Protocol unavailable.
-Ethertype,810E,Locus Computing Corp.,3330 Ocean Park Boulevard Santa Monica CA US 90405 ,Protocol unavailable.
 Ethertype,810F,Locus Computing Corp.,3330 Ocean Park Boulevard Santa Monica CA US 90405 ,Protocol unavailable.
 Ethertype,810A,Autotote Limited,One Hundred Bellevue Road Newark Delaware US 19714 - 6009 ,Protocol unavailable.
 Ethertype,80FA,Metier Management,3 Foundation Street Ipswich Suffolk GB 1P4 1BG Engl ,Protocol unavailable.
 Ethertype,80FB,Metier Management,3 Foundation Street Ipswich Suffolk GB 1P4 1BG Engl ,Protocol unavailable.
-Ethertype,8106,Locus Computing Corp.,3330 Ocean Park Boulevard Santa Monica CA US 90405 ,Protocol unavailable.
 Ethertype,80BF,American Info. Tech. Inc.,10201 Torre Avenue Cupertino CA US 95014 ,Protocol unavailable.
 Ethertype,8064,Arbat (UK) Limited,Kent House Ashford Kent TN23 1PJ GB  ,Protocol unavailable.
 Ethertype,804B,"Stanford Telecomm., Inc.",2421 Mission College Blvd. Santa Clara CA US 95050 ,Protocol unavailable.
@@ -1502,6 +1492,7 @@ Protocol (MIRP) as defined in IEEE Std 802.1Q
 Ethertype,88f2,Honeywell,512 Virginia Dr Ft. Washington PA US 19034 ,WNSIA - Wireless Network for Secure Industrial Application protocol suite
 Ethertype,890d,IEEE 802.11 Working Group,c/o RAC Administrator Piscataway  NJ US 08854 ,Management protocol as defined in IEEE Std 802.11
 Ethertype,8870,IEEE 802.1 Working Group," c/o RAC Administrator , IEEE Piscataway NJ US 08554 ",LLC encapsulation as defined by IEEE Std 802.1AC.
+Ethertype,0B05,University of Berkeley,   US  ,Berkeley Reserved
 Ethertype,8742,Siemens  AG,Otto-Han-Ring-6 Munich  DE D-81739 ,Protocol unavailable.
 Ethertype,8744,Siemens  AG,Otto-Han-Ring-6 Munich  DE D-81739 ,Protocol unavailable.
 Ethertype,80F6,Siemens  AG,Otto-Han-Ring-6 Munich  DE D-81739 ,Protocol unavailable.
@@ -1704,7 +1695,6 @@ Ethertype,8204,"Quantum Software Systems, Ltd.",175 Terence Matthews Cresent Ott
 Ethertype,81A7,RAD Network Devices Inc.,4455 Torrance Blvd. Torrance CA US 90503 ,Protocol unavailable.
 Ethertype,81AA,RAD Network Devices Inc.,4455 Torrance Blvd. Torrance CA US 90503 ,Protocol unavailable.
 Ethertype,81AE,RAD Network Devices Inc.,4455 Torrance Blvd. Torrance CA US 90503 ,Protocol unavailable.
-Ethertype,8101,WellFleet Communications,12 DeAngelo Drive Bedford MA US 01730 - 2204 ,Protocol unavailable.
 Ethertype,875F,The University of Utah,Dept of Computer Science Salt Lake City UT US 84112 ,Protocol unavailable.
 Ethertype,7020,LRT," Reading Berks, England GB  ",Protocol unavailable.
 Ethertype,7022,LRT," Reading Berks, England GB  ",Protocol unavailable.
@@ -1863,7 +1853,6 @@ Ethertype,10EC,Private,,Protocol unavailable.
 Ethertype,10D8,Private,,Protocol unavailable.
 Ethertype,10DD,Private,,Protocol unavailable.
 Ethertype,8222,Ascom Banking Systems Ltd., Solothurn  CH  ,Protocol unavailable.
-Ethertype,0A00,Private,,Protocol unavailable.
 Ethertype,2000,Private,,Protocol unavailable.
 Ethertype,2002,Private,,Protocol unavailable.
 Ethertype,2005,Private,,Protocol unavailable.
@@ -2143,7 +2132,6 @@ Ethertype,86FF,"Starlight Networks, Inc.",444 Castro Street Mountain View CA US 
 Ethertype,872B,Telxon,3330 West Market St Akron OH US 44334 ,Protocol unavailable.
 Ethertype,872C,Telxon,3330 West Market St Akron OH US 44334 ,Protocol unavailable.
 Ethertype,8730,Telxon,3330 West Market St Akron OH US 44334 ,Protocol unavailable.
-Ethertype,0B03,IETF Parameter Negotiation,   US  ,Protocol unavailable.
 Ethertype,8734,"Combinet, Inc.",333 West El Camino Real Sunnyvale CA US 94087 ,Protocol unavailable.
 Ethertype,C024,University of Berkeley,   US  ,Protocol unavailable.
 Ethertype,C026,University of Berkeley,   US  ,Protocol unavailable.
@@ -2198,8 +2186,6 @@ Ethertype,8143,Diamond Sales Ltd.,"17, Charterhouse Street ECIN 6RA England GB  
 Ethertype,7677,Locus Computing Corp.,3330 Ocean Park Boulevard Santa Monica CA US 90405 ,Protocol unavailable.
 Ethertype,8119,Omnex Corporation,2483 Old Middlefield Way Mountain View CA US 94043 ,Protocol unavailable.
 Ethertype,80DB,IBM Corp.,PO Box 12195 Research Triangle Park NC US 27709 ,Protocol unavailable.
-Ethertype,8105,Locus Computing Corp.,3330 Ocean Park Boulevard Santa Monica CA US 90405 ,Protocol unavailable.
-Ethertype,810B,Locus Computing Corp.,3330 Ocean Park Boulevard Santa Monica CA US 90405 ,Protocol unavailable.
 Ethertype,810C,Autotote Limited,One Hundred Bellevue Road Newark Delaware US 19714 - 6009 ,Protocol unavailable.
 Ethertype,810D,Autotote Limited,One Hundred Bellevue Road Newark Delaware US 19714 - 6009 ,Protocol unavailable.
 Ethertype,80D7,IBM Corp.,PO Box 12195 Research Triangle Park NC US 27709 ,Protocol unavailable.
@@ -2277,6 +2263,7 @@ Ethertype,88a8,IEEE 802.1 Chair," c/o RAC Administrator , IEEE Piscataway NJ US 
 Ethertype,8952,IEEE 802.1 Chair," c/o RAC Administrator , IEEE Piscataway NJ US 08554 ",Distributed Relay Control Protocol (DRCP) as defined in IEEE Std 802.1AX
 Ethertype,88e7,IEEE 802.1 Working Group,M/S P7903B12 Santa Clara CA US 95054 ,Backbone Service Instance Tag (I-TAG) as defined in IEEE Std 802.1Q
 Ethertype,88c7,IEEE 802.11 Working Group,c/o RAC Administrator Piscataway  NJ US 08854 ,RSNA Preauthentication as defined in IEEE Std 802.11
+Ethertype,0B03,University of Berkeley,   US  ,IETF Parameter Negotiation
 Ethertype,80DD,Private,,Protocol unavailable.
 Ethertype,B6FE,EtherCAT Technology Group,Ostendstr. 196 NUremberg  DE 90482 ,"Routing functionality through branch controllers is added to the EtherCAT technology by the new EtherCAT G enhancement. IP routing is not available and VLAN based routing does not meet the requirements, so we need an own Ethertype for that purpose."
 Ethertype,8747,Hybrid,20863 Stevens Creek Blvd. Cupertino CA US 95014-8750 ,Protocol unavailable.
@@ -2474,7 +2461,6 @@ Ethertype,8200,"Cabletron Systems, Inc.",35 Industrial Way Rochester NH US 03867
 Ethertype,8761,The University of Utah,Dept of Computer Science Salt Lake City UT US 84112 ,Protocol unavailable.
 Ethertype,8205,"Quantum Software Systems, Ltd.",175 Terence Matthews Cresent Ottawa Ontario CA K2M 1W8 ,Protocol unavailable.
 Ethertype,81AD,RAD Network Devices Inc.,4455 Torrance Blvd. Torrance CA US 90503 ,Protocol unavailable.
-Ethertype,8102,WellFleet Communications,12 DeAngelo Drive Bedford MA US 01730 - 2204 ,Protocol unavailable.
 Ethertype,816A,"Keithley Instruments, Inc.",Systems Division Cleveland OH US 44139 ,Protocol unavailable.
 Ethertype,8862,Intel Corporation,2111 NE 25th Ave. Hillsborough OR US 97124 ,Protocol unavailable.
 Ethertype,8770,Intel Corporation,2111 NE 25 Ave Hillsboro OR US 97124 ,Protocol unavailable.
@@ -2542,7 +2528,6 @@ Ethertype,01C0,Xerox (Experimental), Webster NY US  ,Protocol unavailable.
 Ethertype,01C2,Xerox (Experimental), Webster NY US  ,Protocol unavailable.
 Ethertype,01CB,Xerox (Experimental), Webster NY US  ,Protocol unavailable.
 Ethertype,8014,Private,,Protocol unavailable.
-Ethertype,0B04,Universitiy of Berkeley,   US  ,Protocol unavailable.
 Ethertype,8036,Private,,Protocol unavailable.
 Ethertype,8044,Private,,Protocol unavailable.
 Ethertype,807F,Private,,Protocol unavailable.
@@ -2642,7 +2627,6 @@ Ethertype,86AA,Private,,Protocol unavailable.
 Ethertype,86AC,Private,,Protocol unavailable.
 Ethertype,8755,Private,,Protocol unavailable.
 Ethertype,8759,Private,,Protocol unavailable.
-Ethertype,0A01,Private,,Protocol unavailable.
 Ethertype,201C,Private,,Protocol unavailable.
 Ethertype,201D,Private,,Protocol unavailable.
 Ethertype,201F,Private,,Protocol unavailable.
@@ -2678,7 +2662,6 @@ Ethertype,2076,Private,,Protocol unavailable.
 Ethertype,FF09,Private,,Protocol unavailable.
 Ethertype,FF0E,Private,,Protocol unavailable.
 Ethertype,FF0F,Private,,Protocol unavailable.
-Ethertype,0A00,Xerox IEEE 802.3 PUP, Webster NY US  ,Protocol unavailable.
 Ethertype,8240,"Advanced Encryption Systems, Inc.", Santa Clara CA US  ,Protocol unavailable.
 Ethertype,815C,Private,,Protocol unavailable.
 Ethertype,81F8,Private,,Protocol unavailable.
@@ -2936,7 +2919,6 @@ Ethertype,86FC,"Starlight Networks, Inc.",444 Castro Street Mountain View CA US 
 Ethertype,86FE,"Starlight Networks, Inc.",444 Castro Street Mountain View CA US 94041 ,Protocol unavailable.
 Ethertype,8738,"Combinet, Inc.",333 West El Camino Real Sunnyvale CA US 94087 ,Protocol unavailable.
 Ethertype,8736,"Combinet, Inc.",333 West El Camino Real Sunnyvale CA US 94087 ,Protocol unavailable.
-Ethertype,0B04,Berkeley Reserved,   US  ,Protocol unavailable.
 Ethertype,8722,Marconi Simulation,"Fulmar Way, Donibristle Industrial Park Fife Ky11 5JX Scotland GB  ",Protocol unavailable.
 Ethertype,8729,Telxon,3330 West Market St Akron OH US 44334 ,Protocol unavailable.
 Ethertype,872A,Telxon,3330 West Market St Akron OH US 44334 ,Protocol unavailable.
@@ -2947,7 +2929,6 @@ Ethertype,C221,University of Berkeley,   US  ,Protocol unavailable.
 Ethertype,C222,University of Berkeley,   US  ,Protocol unavailable.
 Ethertype,C225,University of Berkeley,   US  ,Protocol unavailable.
 Ethertype,C226,University of Berkeley,   US  ,Protocol unavailable.
-Ethertype,0B02,IEEE 802.3 compatible Sprite RPC,   US  ,Protocol unavailable.
 Ethertype,C021,University of Berkeley,   US  ,Protocol unavailable.
 Ethertype,86B7,DigiBoard,6400 Flying Coul Dr. Eden Prarie MN US 55344 ,Protocol unavailable.
 Ethertype,86B8,DigiBoard,6400 Flying Coul Dr. Eden Prarie MN US 55344 ,Protocol unavailable.
@@ -2997,12 +2978,10 @@ Ethertype,813F,Micronetics Design Corp.,5 Choke Cherry Rd Rockville MD US 20850 
 Ethertype,8140,Micronetics Design Corp.,5 Choke Cherry Rd Rockville MD US 20850 ,Protocol unavailable.
 Ethertype,812E,Talaris Systems Inc.,PO Box 261580 San Diego CA US 92126 ,Protocol unavailable.
 Ethertype,811F,Omnex Corporation,2483 Old Middlefield Way Mountain View CA US 94043 ,Protocol unavailable.
-Ethertype,810D,Locus Computing Corp.,3330 Ocean Park Boulevard Santa Monica CA US 90405 ,Protocol unavailable.
 Ethertype,80BE,American Info. Tech. Inc.,10201 Torre Avenue Cupertino CA US 95014 ,Protocol unavailable.
 Ethertype,80BB,American Info. Tech. Inc.,10201 Torre Avenue Cupertino CA US 95014 ,Protocol unavailable.
 Ethertype,0887,Tolerant Systems,81 East Daggett Drive San Jose CA US 95134 ,Protocol unavailable.
 Ethertype,088D,Sentry/Schlumberger,1601 Technology Drive San  US  ,Protocol unavailable.
-Ethertype,810A,Locus Computing Corp.,3330 Ocean Park Boulevard Santa Monica CA US 90405 ,Protocol unavailable.
 Ethertype,8078,Accel Technologies,7358 Trade St. San Diego CA US 92121 ,Protocol unavailable.
 Ethertype,0893,Sentry/Schlumberger,1601 Technology Drive San  US  ,Protocol unavailable.
 Ethertype,0894,Sentry/Schlumberger,1601 Technology Drive San  US  ,Protocol unavailable.
@@ -3076,6 +3055,9 @@ Ethertype,99FE,ASAM e.V.,Leopoldstraße 236 Munich  DE 80807 ,CMP enables the re
 Ethertype,88b7,IEEE 802.1 Chair," c/o RAC Administrator , IEEE Piscataway NJ US 08554 ",OUI Extended EtherType as defined in IEEE Std 802. This EtherType value is available for public use and for prototype and vendor-specific protocol development.
 Ethertype,88e5,IEEE 802.1 Working Group,"IEEE 802.1 Chair, c/o RAC Administrator IEEE Piscataway NJ US 08854 ",Media Access Control (MAC) Security tag as defined in IEEE Std 802.1AE
 Ethertype,AAC5,Analog Devices Inc,1 Technology Way Norwood MA US MA02062 ,For implementation of protocol still in development
+Ethertype,0A00,Xerox, Webster NY US  ,PARC Universal Packet (PUP)
+Ethertype,0B04,University of Berkeley,   US  ,Berkeley Reserved
+Ethertype,0B02,University of Berkeley,   US  ,IEEE 802.3 compatible Sprite RPC
 Ethertype,8741,Siemens  AG,Otto-Han-Ring-6 Munich  DE D-81739 ,Protocol unavailable.
 Ethertype,874D,Hybrid,20863 Stevens Creek Blvd. Cupertino CA US 95014-8750 ,Protocol unavailable.
 Ethertype,873D,Siemens  AG,Otto-Han-Ring-6 Munich  DE D-81739 ,Protocol unavailable.
@@ -3342,8 +3324,6 @@ Ethertype,01E2,Xerox (Experimental), Webster NY US  ,Protocol unavailable.
 Ethertype,01EB,Xerox (Experimental), Webster NY US  ,Protocol unavailable.
 Ethertype,01A0,Xerox (Experimental), Webster NY US  ,Protocol unavailable.
 Ethertype,01D6,Xerox (Experimental), Webster NY US  ,Protocol unavailable.
-Ethertype,0B05,Universitiy of Berkeley,   US  ,Protocol unavailable.
-Ethertype,0B07,Universitiy of Berkeley,   US  ,Protocol unavailable.
 Ethertype,80A2,Xerox Corporation,   US  ,Protocol unavailable.
 Ethertype,8784,Private,,Protocol unavailable.
 Ethertype,8006,Private,,Protocol unavailable.
@@ -3453,7 +3433,6 @@ Ethertype,2033,Private,,Protocol unavailable.
 Ethertype,203B,Private,,Protocol unavailable.
 Ethertype,203D,Private,,Protocol unavailable.
 Ethertype,205B,Private,,Protocol unavailable.
-Ethertype,0A01,Xerox,   US  ,Protocol unavailable.
 Ethertype,823E,"Advanced Encryption Systems, Inc.", Santa Clara CA US  ,Protocol unavailable.
 Ethertype,823F,"Advanced Encryption Systems, Inc.", Santa Clara CA US  ,Protocol unavailable.
 Ethertype,8077,Private,,Protocol unavailable.
@@ -3704,7 +3683,6 @@ Ethertype,8735,"Combinet, Inc.",333 West El Camino Real Sunnyvale CA US 94087 ,P
 Ethertype,872F,Telxon,3330 West Market St Akron OH US 44334 ,Protocol unavailable.
 Ethertype,C22C,University of Berkeley,   US  ,Protocol unavailable.
 Ethertype,C22E,University of Berkeley,   US  ,Protocol unavailable.
-Ethertype,0B06,Berkeley Reserved,   US  ,Protocol unavailable.
 Ethertype,C02E,University of Berkeley,   US  ,Protocol unavailable.
 Ethertype,C224,University of Berkeley,   US  ,Protocol unavailable.
 Ethertype,C228,University of Berkeley,   US  ,Protocol unavailable.
@@ -3828,3 +3806,5 @@ Ethertype,89A2,IEEE 802.1 Chair," c/o RAC Administrator , IEEE Piscataway NJ US 
 Ethertype,8902,IEEE 802.1 Chair," c/o RAC Administrator , IEEE Piscataway NJ US 08554 ",Connectivity Fault Management (CFM) Protocol Data Unit (PDU) Encapsulation as defined in IEEE 802.1Q
 Ethertype,8100,IEEE 802.1 Chair," c/o RAC Administrator , IEEE Piscataway NJ US 08554 ",Customer VLAN Tag (C-TAG) as defined in IEEE Std 802.1Q
 Ethertype,CCE0,"Video Services Forum, Inc.",208 84th Street 08242 Sea Isle City NJ US 08243 ,"Reliable Internet Stream Transport is an open source, open specification transport protocol designed for reliable transmission of video over lossy networks (including the internet) with low latency and high quality."
+Ethertype,0B06,University of Berkeley,   US  ,Berkeley Reserved
+Ethertype,0A01,Xerox,   US  ,PUP Address translation

@@ -2784,14 +2784,6 @@ Ethertype,8919,Xsigo Systems,70 West Plumeria Drive San Jose CA US 95134 ,"Two p
 
 2) Xsigo Session Management Protocol (XSMP). Used by servers to receive information about the individual virtual I/O devices allocated to them on the I/O Directors residing on the Ethernet network.
 "
-Ethertype,8917,IEEE 802.21,2200 Mission College Boulevard Santa Clara CA US 95034 ,"Media Independent Handover Protocol
-
-The IEEE P802.21 specification is currently
-in Sponsor Ballot. The protocol is defined
-in the IEEE P802.21 draft.
-
-http://www.ieee802.org/21/doctree/Temp/P802-21-D11.pdf
-"
 Ethertype,8086,"Intel Americas, Inc.",1906 Fox Drive Champaign IL US 61820 ,"8086    Proprietary Cluster Communication Protocol
         Intel Corporation   
         2200 Mission College Blvd.
@@ -3058,6 +3050,7 @@ Ethertype,AAC5,Analog Devices Inc,1 Technology Way Norwood MA US MA02062 ,For im
 Ethertype,0A00,Xerox, Webster NY US  ,PARC Universal Packet (PUP)
 Ethertype,0B04,University of Berkeley,   US  ,Berkeley Reserved
 Ethertype,0B02,University of Berkeley,   US  ,IEEE 802.3 compatible Sprite RPC
+Ethertype,8917,IEEE 802.21 Working Group,"IEEE 802.21 Chair, c/o RAC Administrator IEEE Piscataway NJ US 08854 ",Media Independent Service (MIS) protocol as defined in IEEE Std 802.21
 Ethertype,8741,Siemens  AG,Otto-Han-Ring-6 Munich  DE D-81739 ,Protocol unavailable.
 Ethertype,874D,Hybrid,20863 Stevens Creek Blvd. Cupertino CA US 95014-8750 ,Protocol unavailable.
 Ethertype,873D,Siemens  AG,Otto-Han-Ring-6 Munich  DE D-81739 ,Protocol unavailable.

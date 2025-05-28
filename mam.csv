@@ -1208,6 +1208,7 @@ MA-M,FCA2DF3,PAVONE SISTEMI SRL,Via Tiberio Bianchi 11-13-15 Concorezzo MB IT 20
 MA-M,FCA2DF0,Solink Corporation,110-390 March Road Ottawa Ontario CA K2K 0G7 
 MA-M,FCA2DFB,Lumentum,"60/129 Moo 19, Klongnueng Klongluang Pathumthani TH 12120 "
 MA-M,04585DB,"Chengdu Juxun Electronic Technology Co.,Ltd","No.327 Xingye Road, Industrial East District, Xindu District, Chengdu City, China Chengdu Sichuan CN 610500 "
+MA-M,04585DE,"Shenzhen C & D Electronics Co., Ltd.","9th FIoor, Building 9, No.1 Qingxiang road, BaoNeng Science and TechnoIogy Industrial Park, Longhua New District ShenZhen GuangDong CN 518000 "
 MA-M,B84C873,"Shenzhen Link-all Technology Co., Ltd","Floor 5th, Block 9th, Sunny Industrial Zone, Xili Town, Nanshan District, Shenzhen, China  Shenzhen Guangdong CN 518108 "
 MA-M,B84C87C,SOND,"1295 Beacon St, Unit #899 Brookline  US 02446 "
 MA-M,B84C87B,"Beijing Yunji Technology Co., Ltd.","Floor 7?Hailong Mansion?No.1 Zhongguancun Avenue,Haidian District,Beijing Beijing  CN 100080 "
@@ -4677,6 +4678,7 @@ MA-M,FCA2DF7,Flexmedia ind e com,"Atica, 583 04634-042 sao paulo sao paulo BR 04
 MA-M,FCA2DF1,SpacemiT,"Room 1005, 10F, No. 88, Wanchuang Road, Tangjiawan Town, High-tech Zone, Zhuhai zhuhai guangdong CN 519000 "
 MA-M,04585D0,Wetatronics Limited,45 Bath Street Parnell Auckland Auckland NZ 1052 
 MA-M,04585D8,JRK VISION,"A-1107, 135, Gasan digital 2-ro, Geumcheon-gu SEOUL  KR 08504 "
+MA-M,D4A0FB4,"Shenzhen Dijiean Technology Co., Ltd","Floor 6,Building B,Tongxie Industrial Zone,No.80 Shilong Road,Shiyan Street,Baoan District Shenzhen City Guangdong CN 518000 "
 MA-M,C85CE20,Fela Management AG ,Basadingerstrasse 18 Diessenhofen  CH 8253 
 MA-M,B84C87E,Private,
 MA-M,B84C871,em-trak,"wireless house, westfield industrial estate Midsomer Norton Bath Somerset GB BA3 4BS "
@@ -5852,8 +5854,8 @@ MA-M,FCA2DFA,BPL MEDICAL TECHNOLOGIES PRIVATE LIMITED,11KM BANNERGHATTA MAIN ROA
 MA-M,FCA2DF5,Annapurna labs,"Matam Scientific Industries Center,   Building 8.2 Mail box 15123 Haifa IL 3508409 "
 MA-M,FCA2DF2,PDI COMMUNICATION SYSTEMS INC.,40 GREENWOOD LN SPRINGBORO OH US 45066 
 MA-M,FCA2DFD,"MBio Diagnostics, Inc.",4550 Byrd Dr Loveland  US 80538 
-MA-M,04585D2,Foxconn Brasil Industria e Comercio Ltda,"Av. Marginal da Rodovia dos Bandeirantes, 800 - Distrito Industrial Jundiaí Sao Paulo BR 13213-008 "
-MA-M,04585D5,Sercomm Japan Corporation,"8F, 3-1, YuanQu St., NanKang, Taipei 115, Taiwan Taipei   TW 115 "
 MA-M,04585D9,Dron Edge India Private Limited,A 93 SECTOR 65 NOIDA 201301 201301 Uttar Pradesh IN 201301 
 MA-M,04585D4,Integrated Technical Vision Ltd,Mykoly Hrinchenka str. 2/1 Kyiv Kyiv UA 03038 
-MA-M,04585D3,REXXON GmbH,Mads-Clausen-Str. 7 Flensburg Schleswig-Holstein DE 24939 
+MA-M,04585D3,REXXON GmbH,"""Mads-Clausen-Str. 7 Flensburg Schleswig-Holstein DE 24939  "
+MA-M,04585D2,Foxconn Brasil Industria e Comercio Ltda,"Av. Marginal da Rodovia dos Bandeirantes, 800 - Distrito Industrial Jundiaí Sao Paulo BR 13213-008 "
+MA-M,04585D5,Sercomm Japan Corporation,"8F, 3-1, YuanQu St., NanKang, Taipei 115, Taiwan Taipei   TW 115 "

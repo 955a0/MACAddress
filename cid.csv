@@ -38,6 +38,8 @@ CID,3AC6CF,Parakey AB,Sankt Eriksgatan 6 Göteborg  SE 41666
 CID,2A1597,COTSWORKS,749 Miner Road Highland Heights OH US 44143 
 CID,FA7ACB,Ultra Ethernet Consortium,"c/o The Linux Foundation, 548 Market St. PMB 57274 San Francisco CA US 94104-5401 "
 CID,2A7F76,"Wireless Broadband Alliance, Inc","5000 Executive Parkway, Suite 302 San Ramon CA SG 94583  "
+CID,1AAF53,JSC Megapolis-telecom region,"Dekabrkih sobitiy, 100 Irkutsk  RU 664007 "
+CID,0A58FB,Purple WiFi Limited,Hollinwood Business Centre Albert Street Oldham Lancashire GB OL8 3QL 
 CID,CAC276,Saab Seaeye Ltd,20 Brunel Way Fareham Hampshire GB PO15 5SD 
 CID,DAE6D7,"NVM Express, Inc. ",3855 SW 153rd Drive Beaverton OR US 97003 
 CID,4AED1D,Astera Labs Inc,"2901 Tasman Dr, #204 Santa Clara CA US 95054 "
@@ -84,6 +86,8 @@ CID,BA2DFC,"LINKWING(DONGGUAN)INTELLIGENT ELECTRONICS CO.,LTD","ROOM 101, BUILDI
 CID,CA083C,"Western Digital Technologies, Inc.",5601 Great Oaks Parkway San Jose CA US 95119-1003 
 CID,BAA2D0,"Wireless Broadband Alliance, Inc","5000 Executive Parkway, Suite 302 San Ramon CA SG 94583  "
 CID,2A47C9,Code Construct Pty Ltd,PO Box 248 Victoria Park WA AU 6979 
+CID,2A2F83,Uplink,"3524 Silverside Road, suite 35B Wilmington DE US 19810-4929 "
+CID,FA7D04,Salience Labs,100 Park Drive Abingdon-on-Thames Oxfordshire GB OX14 4RY 
 CID,8A852E,Kampr Systems,2047 Kings Lane San Mateo CA US 94402 
 CID,FA00E7,Quantum Machines ltd,Hamasger 35 Tel Aviv  IL 6721407 
 CID,6A71E6,FuelCloud,124 SW Dennis Ave. Hillsboro OR US 97123 
@@ -112,16 +116,17 @@ CID,EA6076,"CloudSimple, Inc.","2755 Great America Way, Suite 101 Santa Clara CA
 CID,6A0E20,"GeoFrenzy, Inc",39 Main Street Tiburon CA US 94920 
 CID,BA55EC,IEEE 802.15,445 Hoes Lane  Piscataway NJ US 08854-4141 
 CID,BA3054,George Wilson Industries Ltd,"Barlow Road, Aldermans Green Industrial Estate Coventry West Midlands GB CV2 2LD "
-CID,CA125C,Microsoft Corporation,One Microsoft Way Redmond null US 98052-6399 
 CID,FA1466,Allegion PLC,500 Golden Ridge Rd Ste 160 Golden CO US 80401-9553 
 CID,EAE0D9,Berk-tek LLC,132 white oak rd new holland PA US 17557 
 CID,1A75FB,AUTOSAR,c/o Altran GmbH & Co. KG Munich  DE 80636 
 CID,CAE505,Mobilitie,2220 University Dr Newport Beach  US 92660 
 CID,FA556F,SymbolicIO,379 Thornall Edison NJ US 08837 
 CID,BA03C6,Schüco International KG,Karolinenstr. 1 - 15 Bielefeld  DE 33609 
-CID,EADA6E,FUJIFILM Recording Media GmbH,Fujistraße 1 Kleve  DE 47533 
 CID,0AF99D,Fitipower Integrated Technology,"3 Floor, No.6-8, Duxing Rd.,Hsinchu Science-Park Hsinchu  TW 30078 "
 CID,5A03BA,"Wireless Broadband Alliance, Inc","5000 Executive Parkway, Suite 302 San Ramon CA SG 94583  "
+CID,BAFE3A,DENSO CORPORATION,"1-1, Showa-cho, Kariya-shi Aichi JP 448-8661 "
+CID,EADA6E,FUJIFILM Germany GmbH,Balcke-Dürr-Allee 6 Ratingen  DE 40882 
+CID,CA125C,Microsoft Corporation,One Microsoft Way Redmond  US 98052-6399 
 CID,DAC451,Takaratomy,7-9-10 Tateishi Katsushika-ku Tokyo JP 124-8511 
 CID,BAC8C4,"Transponder & Reader Engineered Systems, Inc",9651 Chalma Avenue  Baton Rouge LA US 70814 
 CID,CA7DDD,"EmOne (Thailand) Co.,Ltd.",39/1 Soi.Sangkhom Songkhro 12 Lat Phrao Bangkok TH 10230 
@@ -163,6 +168,10 @@ CID,FAEEB6,"Shenzhen Jiahua Zhongli Technology Co., LTD","Rm1807, Building 11,
 CID,5A6BB4,Xconn Technologies,"1245 S. Winchester Blvd, Suite 208 San Jose CA US 95128 "
 CID,CA443E,Allianz Technology SE,Dieselstr. 8 Unterföhring  DE 85774 
 CID,0A2A33,DIGISTOR,1000 SE Tech Center Dr  Suite 160 Vancouver WA US 98683 
+CID,6AB87A,Acrosswaves,"101-912, 88 ,Sinwon-ro, Yeongtong-gu,  Suwon-si Gyeonggi-do KR 16681 "
+CID,4A6536,m3connect GmbH,Pascalstr. 18 Aachen Nordrhein-Westfalen DE 52076 
+CID,2A2FE2,onway ag,Stauffacherstrasse 16 Zürich  CH 8004 
+CID,0A9326,"Qorvo, Inc.",500 W. Renner Road Richardson  US 75080 
 CID,8A7DB3,"Evolv Technology, Inc.",500 Totten Pond Road 4th Floor Waltham MA US 02451 
 CID,DA19B3,LG Uplus,"80-17 Gwhak-ro, Yuseong-gu Daejeon  KR 34132 "
 CID,0AA23B,Vitex LLC,"210 Sylvan Ave, Suite 25 Englewood Cliffs NJ US 07632 "
@@ -197,3 +206,4 @@ CID,5A55AD,Disruptive Cities SAPI DE CV,Insurgentes Sur 64 CDMX CDMX MX 06600
 CID,AA78A3,"Dongguan Yiertek Co., Ltd","Room 901, Building 4, Xinlikang Industrial Park, Huangchong Dongguan China CN 523000 "
 CID,EABEA7,"Sonos, Inc.",301 Coromar Dr Goleta CA US 93117 
 CID,4A5909,"MIWA LOCK CO.,LTD.","1028-1,Yamagami Tamaki-tyou Mie JP 519-0436 "
+CID,4AF57D,ASAM e.V.,Altlaufstr. 40 Höhenkirchen-Siegertsbrunn Bavaria DE 85635 

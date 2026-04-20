@@ -2,7 +2,8 @@
 
 OUTDIR="/home/x955/www/nwapp/macal/"
 
-
+rm -rf "../macdb"
+mkdir "../macdb"
 
 FILE="./oui.csv"
 while read line || [ -n "${line}" ];
